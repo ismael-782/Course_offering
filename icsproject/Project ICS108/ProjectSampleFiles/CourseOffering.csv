@@ -1,0 +1,850 @@
+CHEM 101-01,REC,20120,Principles of Chemical Science I,None,W,0800-0850,63-325,Open,Closed
+CHEM 101-01,LEC,20120,Principles of Chemical Science I,None,UTR,0800-0850,63-362,Open,Closed
+CHEM 101-02,REC,20121,Principles of Chemical Science I,None,W,0900-0950,63-325,Open,Closed
+CHEM 101-02,LEC,20121,Principles of Chemical Science I,None,UTR,0800-0850,63-362,Open,Closed
+CHEM 101-03,REC,20122,Principles of Chemical Science I,None,W,1000-1050,63-121,Open,Closed
+CHEM 101-03,LEC,20122,Principles of Chemical Science I,None,UTR,0800-0850,63-362,Open,Closed
+CHEM 101-04,REC,20123,Principles of Chemical Science I,None,W,0800-0850,63-221,Open,Closed
+CHEM 101-04,LEC,20123,Principles of Chemical Science I,None,UTR,0900-0950,63-362,Open,Closed
+CHEM 101-05,REC,20124,Principles of Chemical Science I,None,W,0900-0950,63-227,Open,Closed
+CHEM 101-05,LEC,20124,Principles of Chemical Science I,None,UTR,0900-0950,63-362,Open,Closed
+CHEM 101-06,REC,20125,Principles of Chemical Science I,None,W,1000-1050,63-223,Open,Closed
+CHEM 101-06,LEC,20125,Principles of Chemical Science I,None,UTR,0900-0950,63-362,Open,Closed
+CHEM 101-07,REC,20126,Principles of Chemical Science I,None,M,0800-0850,63-325,Open,Closed
+CHEM 101-07,LEC,20126,Principles of Chemical Science I,None,UTR,1000-1050,63-362,Open,Closed
+CHEM 101-08,REC,20127,Principles of Chemical Science I,None,M,0900-0950,63-229,Open,Closed
+CHEM 101-08,LEC,20127,Principles of Chemical Science I,None,UTR,1000-1050,63-362,Open,Closed
+CHEM 101-09,REC,20128,Principles of Chemical Science I,None,M,1000-1050,63-229,Open,Closed
+CHEM 101-09,LEC,20128,Principles of Chemical Science I,None,UTR,1000-1050,63-362,Open,Closed
+CHEM 101-10,REC,20129,Principles of Chemical Science I,None,W,0900-0950,63-225,Open,Closed
+CHEM 101-10,LEC,20129,Principles of Chemical Science I,None,UTR,1100-1150,63-362,Open,Closed
+CHEM 101-11,REC,20130,Principles of Chemical Science I,None,W,1000-1050,63-226,Open,Closed
+CHEM 101-11,LEC,20130,Principles of Chemical Science I,None,UTR,1100-1150,63-362,Open,Closed
+CHEM 101-12,REC,20131,Principles of Chemical Science I,None,W,1100-1150,63-223,Open,Closed
+CHEM 101-12,LEC,20131,Principles of Chemical Science I,None,UTR,1100-1150,63-362,Open,Closed
+CHEM 101-13,REC,20132,Principles of Chemical Science I,None,W,1200-1250,63-024,Open,Closed
+CHEM 101-13,LEC,20132,Principles of Chemical Science I,None,UTR,1200-1250,63-362,Open,Closed
+CHEM 101-14,REC,20133,Principles of Chemical Science I,None,W,1300-1350,63-022,Open,Closed
+CHEM 101-14,LEC,20133,Principles of Chemical Science I,None,UTR,1200-1250,63-362,Open,Closed
+CHEM 101-15,REC,20134,Principles of Chemical Science I,None,W,1400-1450,63-024,Open,Closed
+CHEM 101-15,LEC,20134,Principles of Chemical Science I,None,UTR,1200-1250,63-362,Open,Closed
+CHEM 101-16,REC,20135,Principles of Chemical Science I,None,W,1200-1250,63-026,Open,Closed
+CHEM 101-16,LEC,20135,Principles of Chemical Science I,None,UTR,1300-1350,63-331,Open,Closed
+CHEM 101-17,REC,20136,Principles of Chemical Science I,None,W,1300-1350,63-024,Open,Closed
+CHEM 101-17,LEC,20136,Principles of Chemical Science I,None,UTR,1300-1350,63-331,Open,Closed
+CHEM 101-18,REC,20137,Principles of Chemical Science I,None,W,1400-1450,63-026,Open,Closed
+CHEM 101-18,LEC,20137,Principles of Chemical Science I,None,UTR,1300-1350,63-331,Open,Closed
+CHEM 101-51,LAB,20138,Principles of Chemical Science I,None,U,0800-1050,75-302,Open,Closed
+CHEM 101-52,LAB,20139,Principles of Chemical Science I,None,M,1100-1350,75-None,Closed,Closed
+CHEM 101-54,LAB,20899,Principles of Chemical Science I,None,M,0800-1050,75-302,Open,Closed
+CHEM 101-55,LAB,20141,Principles of Chemical Science I,None,M,0800-1050,75-304,Open,Closed
+CHEM 101-56,LAB,20142,Principles of Chemical Science I,None,M,0800-1050,75-306,Open,Closed
+CHEM 101-57,LAB,20143,Principles of Chemical Science I,None,M,0800-1050,75-308,Open,Closed
+CHEM 101-58,LAB,20144,Principles of Chemical Science I,None,M,0800-1050,75-310,Open,Closed
+CHEM 101-59,LAB,20145,Principles of Chemical Science I,None,M,1100-1350,75-304,Closed,Closed
+CHEM 101-60,LAB,20146,Principles of Chemical Science I,None,M,1100-1350,75-306,Open,Closed
+CHEM 101-61,LAB,20147,Principles of Chemical Science I,None,M,1100-1350,75-308,Open,Closed
+CHEM 101-62,LAB,20148,Principles of Chemical Science I,None,M,1100-1350,None,Open,Closed
+CHEM 101-63,LAB,20149,Principles of Chemical Science I,None,M,1100-1350,75-312,Open,Closed
+CHEM 101-64,LAB,20150,Principles of Chemical Science I,None,T,1400-1650,75-310,Open,Closed
+CHEM 101-65,LAB,20151,Principles of Chemical Science I,None,T,1400-1650,75-312,Open,Closed
+CHEM 101-66,LAB,20152,Principles of Chemical Science I,None,T,1400-1650,75-306,Open,Closed
+CHEM 101-67,LAB,20153,Principles of Chemical Science I,None,T,1400-1650,75-308,Open,Closed
+CHEM 101-68,LAB,21525,Principles of Chemical Science I,None,T,0800-1050,75-302,Open,Closed
+CHEM 101-69,LAB,20154,Principles of Chemical Science I,None,T,1100-1350,75-304,Open,Closed
+CHEM 101-70,LAB,21526,Principles of Chemical Science I,None,T,1400-1650,75-302,Open,Closed
+CHEM 101-71,LAB,20155,Principles of Chemical Science I,None,T,1400-1650,75-304,Open,Closed
+CHEM 101-72,LAB,20161,Principles of Chemical Science I,None,T,1400-1650,75-309,Open,Closed
+CHEM 101-73,LAB,20162,Principles of Chemical Science I,None,W,0800-1050,75-302,Open,Closed
+CHEM 101-74,LAB,21998,Principles of Chemical Science I,None,W,0800-1050,75-304,Open,Closed
+CHEM 101-75,LAB,20159,Principles of Chemical Science I,None,W,1100-1350,75-302,Open,Closed
+CHEM 101-76,LAB,20160,Principles of Chemical Science I,None,W,1100-1350,75-304,Open,Closed
+CHEM 101-77,LAB,20156,Principles of Chemical Science I,None,W,1100-1350,75-306,Open,Closed
+CHEM 101-78,LAB,20157,Principles of Chemical Science I,None,W,1100-1350,75-308,Open,Closed
+CHEM 101-79,LAB,20158,Principles of Chemical Science I,None,W,1400-1650,75-302,Open,Closed
+CHEM 101-80,LAB,22023,Principles of Chemical Science I,None,W,1400-1650,75-304,Open,Closed
+CHEM 101-81,LAB,21527,Principles of Chemical Science I,None,W,1400-1650,75-306,Open,Closed
+CHEM 101-82,LAB,21528,Principles of Chemical Science I,None,W,1400-1650,75-308,Open,Closed
+CHEM 101-83,LAB,21529,Principles of Chemical Science I,None,W,1400-1650,75-310,Open,Closed
+CHEM 101-84,LAB,20163,Principles of Chemical Science I,None,W,1400-1650,75-312,Open,Closed
+CHEM 101-85,LAB,20900,Principles of Chemical Science I,None,W,1400-1650,75-309,Open,Closed
+CHEM 101-86,LAB,21841,Principles of Chemical Science I,None,R,0800-1050,75-302,Open,Closed
+CHEM 101-87,LAB,21997,Principles of Chemical Science I,None,R,1300-1550,75-304,Open,Closed
+CHEM 101-F22,REC,23749,Principles of Chemical Science I,None,M,0800-0850,7-113,Open,Closed
+CHEM 101-F22,LEC,23749,Principles of Chemical Science I,None,UTR,1000-1050,14-108,Open,Closed
+CHEM 101-F23,REC,23750,Principles of Chemical Science I,None,M,0900-0950,7-113,Open,Closed
+CHEM 101-F23,LEC,23750,Principles of Chemical Science I,None,UTR,1000-1050,14-108,Open,Closed
+CHEM 101-F24,REC,23751,Principles of Chemical Science I,None,M,1000-1050,7-102,Open,Closed
+CHEM 101-F24,LEC,23751,Principles of Chemical Science I,None,UTR,1000-1050,14-108,Open,Closed
+CHEM 101-F25,REC,23813,Principles of Chemical Science I,None,W,0800-0850,7-113,Open,Closed
+CHEM 101-F25,LEC,23813,Principles of Chemical Science I,None,UTR,0900-0950,14-108,Open,Closed
+CHEM 101-F26,REC,23814,Principles of Chemical Science I,None,W,0900-0950,7-113,Open,Closed
+CHEM 101-F26,LEC,23814,Principles of Chemical Science I,None,UTR,0900-0950,14-108,Open,Closed
+CHEM 101-F27,REC,23821,Principles of Chemical Science I,None,W,1000-1050,7-102,Open,Closed
+CHEM 101-F27,LEC,23821,Principles of Chemical Science I,None,UTR,0900-0950,14-108,Open,Closed
+CHEM 101-F51,LAB,23752,Principles of Chemical Science I,None,U,1400-1650,75-304,Open,Closed
+CHEM 101-F52,LAB,23753,Principles of Chemical Science I,None,U,1400-1650,75-306,Open,Closed
+CHEM 101-F53,LAB,23754,Principles of Chemical Science I,None,U,1400-1650,75-308,Open,Closed
+CHEM 101-F54,LAB,23755,Principles of Chemical Science I,None,U,1400-1650,75-310,Open,Closed
+CHEM 101-F55,LAB,23756,Principles of Chemical Science I,None,U,1400-1650,75-312,Open,Closed
+CHEM 101-F56,LAB,23757,Principles of Chemical Science I,None,M,1400-1650,75-306,Closed,Closed
+CHEM 101-F57,LAB,23767,Principles of Chemical Science I,None,M,1400-1650,75-308,Open,Closed
+CHEM 101-F58,LAB,23768,Principles of Chemical Science I,None,M,1400-1650,75-310,Open,Closed
+CHEM 101-F59,LAB,23769,Principles of Chemical Science I,None,M,1400-1650,75-312,Open,Closed
+CHEM 101-F60,LAB,23815,Principles of Chemical Science I,None,M,1400-1650,75-312,Open,Closed
+COE 233-02,LEC,23334,Digital Logic & Computer Organization,MOHAMED ELRABAA,UTR,0900-0950,59-2009,Open,Closed
+COE 233-03,LEC,23335,Digital Logic & Computer Organization,HAZIM SELMI,UT,1230-1345,24-146,Closed,Closed
+COE 233-04,LEC,23336,Digital Logic & Computer Organization,HAZIM SELMI,MW,1230-1345,22-130,Closed,Closed
+COE 292-01,LEC,23337,Introduction to Artificial Intelligence,ABDUL JABBAR SIDDIQUI,UTR,0800-0850,24-135,Open,Closed
+COE 292-02,LEC,23338,Introduction to Artificial Intelligence,C KAMAL,UTR,0800-0850,22-132,Closed,Open
+COE 292-03,LEC,23339,Introduction to Artificial Intelligence,TALAL AL-KHAROBI,UTR,0900-0950,24-135,Open,Closed
+COE 292-04,LEC,23340,Introduction to Artificial Intelligence,C KAMAL,UTR,0900-0950,76-1124,Closed,Open
+COE 292-05,LEC,23341,Introduction to Artificial Intelligence,ASHRAF MAHMOUD,UTR,1000-1050,23-011,Closed,Open
+COE 292-06,LEC,23342,Introduction to Artificial Intelligence,AHMAD AKRAM,UTR,1000-1050,24-178,Closed,Open
+COE 292-07,LEC,23343,Introduction to Artificial Intelligence,ABDUL JABBAR SIDDIQUI,UTR,1100-1150,59-1014,Closed,Open
+COE 292-08,LEC,23344,Introduction to Artificial Intelligence,C KAMAL,UTR,1100-1150,76-1126,Closed,Open
+COE 292-09,LEC,23345,Introduction to Artificial Intelligence,C KAMAL,UTR,1200-1250,24-178,Closed,Open
+COE 292-10,LEC,23346,Introduction to Artificial Intelligence,RASHAD OTHMAN,UTR,1300-1350,59-1005,Closed,Open
+COE 292-11,LEC,23347,Introduction to Artificial Intelligence,TALAL AL-KHAROBI,UTR,1000-1050,24-116,Closed,Closed
+COE 292-12,LEC,23348,Introduction to Artificial Intelligence,AHMED AL-MULHEM,MW,0930-1045,59-2022,Closed,Open
+COE 292-13,LEC,23349,Introduction to Artificial Intelligence,AHMED AL-MULHEM,MW,0800-0915,24-178,Closed,Open
+COE 292-14,LEC,23350,Introduction to Artificial Intelligence,M. MAHMOUD,MW,0830-0945,59-2004,Closed,Open
+COE 292-15,LEC,23351,Introduction to Artificial Intelligence,M. MAHMOUD,MW,1000-1115,24-236A,Closed,Open
+COE 292-16,LEC,24467,Introduction to Artificial Intelligence,LOUAI AL-AWAMI,UTR,1100-1150,22-132,Closed,Open
+COE 292-17,LEC,24484,Introduction to Artificial Intelligence,AYAZ KHAN,UTR,1000-1050,24-249,Open,Closed
+COE 292-18,LEC,24504,Introduction to Artificial Intelligence,MUHAMAD FELEMBAN,UTR,1200-1250,24-141,Closed,Closed
+COE 292-19,LEC,24527,Introduction to Artificial Intelligence,AHMAD AKRAM,MW,0930-1045,59-2011,Closed,Closed
+COE 292-20,LEC,24529,Introduction to Artificial Intelligence,LOUAI AL-AWAMI,UTR,0800-0850,24-156,Open,Closed
+CGS 392-01,LAB,23073,Career Essentials,None,U,1400-1550,59-2027,Closed,Open
+CGS 392-02,LAB,23074,Career Essentials,LANCE KING,U,0800-0950,59-2027,Closed,Closed
+CGS 392-03,LAB,23075,Career Essentials,None,T,1400-1550,59-2027,Closed,Open
+CGS 392-04,LAB,24187,Career Essentials,CARL DUSTHIMER,W,0800-0950,59-2027,Closed,Open
+CGS 392-05,LAB,24188,Career Essentials,LANCE KING,M,0800-0950,59-2027,Closed,Open
+CGS 392-06,LAB,24189,Career Essentials,DRAGOS BRAD,U,1000-1150,59-2027,Open,Closed
+CGS 392-07,LAB,24190,Career Essentials,None,R,1400-1550,59-2027,Closed,Closed
+CGS 392-08,LAB,24191,Career Essentials,LANCE KING,R,0800-0950,59-2027,Closed,Open
+CGS 392-09,LAB,24192,Career Essentials,None,M,1000-1150,59-2027,Closed,Open
+CGS 392-10,LAB,24193,Career Essentials,CARL DUSTHIMER,M,1200-1350,59-2027,Closed,Open
+CGS 392-11,LAB,24194,Career Essentials,None,W,1000-1150,59-2027,Closed,Open
+CGS 392-12,LAB,24195,Career Essentials,MICHAEL RYALL,U,0800-0950,59-2029,Open,Closed
+CGS 392-13,LAB,24196,Career Essentials,None,R,1000-1150,59-2029,Closed,Closed
+CGS 392-14,LAB,24197,Career Essentials,None,U,1200-1350,59-2029,Closed,Closed
+CGS 392-15,LAB,24198,Career Essentials,PETER EDWARDS,U,1200-1350,59-2027,Closed,Open
+CGS 392-16,LAB,24199,Career Essentials,None,T,1200-1350,59-2029,Open,Closed
+CGS 392-17,LAB,24200,Career Essentials,DRAGOS BRAD,T,1000-1150,59-2029,Closed,Open
+CGS 392-18,LAB,24201,Career Essentials,PETER EDWARDS,T,1200-1350,59-2027,Closed,Closed
+CGS 392-19,LAB,24202,Career Essentials,None,R,1200-1350,59-2029,Closed,Closed
+CGS 392-20,LAB,24203,Career Essentials,PETER EDWARDS,R,1200-1350,59-2027,Closed,Open
+CGS 392-21,LAB,24204,Career Essentials,None,M,0800-0950,59-2029,Closed,Open
+CGS 392-22,LAB,24205,Career Essentials,JASON MARKOWSKY,U,1400-1550,59-2029,Closed,Open
+CGS 392-23,LAB,24206,Career Essentials,None,T,0800-0950,59-2029,Open,Closed
+CGS 392-24,LAB,24207,Career Essentials,MICHAEL RYALL,T,0800-0950,59-2027,Open,Closed
+CGS 392-25,LAB,24208,Career Essentials,JASON MARKOWSKY,T,1400-1550,59-2029,Open,Closed
+CGS 392-26,LAB,24209,Career Essentials,MICHAEL RYALL,R,0800-0950,59-2029,Open,Closed
+CGS 392-27,LAB,24210,Career Essentials,None,W,0800-0950,59-2029,Closed,Closed
+CGS 392-28,LAB,24427,Career Essentials,DANIEL MAHONY,U,1200-1350,63-227,Closed,Closed
+CGS 392-29,LAB,24428,Career Essentials,DANIEL MAHONY,T,1200-1350,63-227,Closed,Open
+CGS 392-30,LAB,24429,Career Essentials,DANIEL MAHONY,R,1200-1350,63-227,Closed,Open
+ENGL 101-01,LEC,20347,Introduction to Academic Discourse,KEITH PEARSON,UTR,1400-1450,24-128,Open,Closed
+ENGL 101-04,LEC,20348,Introduction to Academic Discourse,None,UTR,0800-0850,24-180,Open,Closed
+ENGL 101-05,LEC,20342,Introduction to Academic Discourse,MAHIR GAZDAR,UTR,0900-0950,3-101,Open,Closed
+ENGL 101-06,LEC,22121,Introduction to Academic Discourse,ADIL MAHMOOD,UTR,0800-0850,3-109,Open,Closed
+ENGL 101-07,LEC,22751,Introduction to Academic Discourse,None,UTR,0900-0950,24-125,Open,Closed
+ENGL 101-08,LEC,22752,Introduction to Academic Discourse,None,UTR,0900-0950,24-151,Open,Closed
+ENGL 101-09,LEC,20349,Introduction to Academic Discourse,MAHIR GAZDAR,UTR,1000-1050,3-108,Closed,Closed
+ENGL 101-10,LEC,20346,Introduction to Academic Discourse,JOHN HAMILTON,UTR,1000-1050,24-180,Closed,Open
+ENGL 101-11,LEC,20345,Introduction to Academic Discourse,ADIL MAHMOOD,UTR,0900-0950,3-109,Open,Closed
+ENGL 101-12,LEC,20353,Introduction to Academic Discourse,JONATHAN OWEN,UTR,1000-1050,24-137,Closed,Closed
+ENGL 101-13,LEC,22122,Introduction to Academic Discourse,None,UTR,1000-1050,63-326,Open,Closed
+ENGL 101-14,LEC,22120,Introduction to Academic Discourse,JOHN HAMILTON,UTR,1100-1150,24-135,Closed,Open
+ENGL 101-15,LEC,20352,Introduction to Academic Discourse,JONATHAN OWEN,UTR,1100-1150,24-240,Closed,Closed
+ENGL 101-16,LEC,20351,Introduction to Academic Discourse,STEPHEN WATTS,UTR,1100-1150,6-100,Closed,Closed
+ENGL 101-17,LEC,21772,Introduction to Academic Discourse,ADAM KHAN,UTR,1200-1250,24-240,Closed,Closed
+ENGL 101-18,LEC,20355,Introduction to Academic Discourse,STEPHEN WATTS,UTR,1200-1250,6-209,Closed,Closed
+ENGL 101-19,LEC,21773,Introduction to Academic Discourse,ADAM KHAN,UTR,1300-1350,24-240,Closed,Closed
+ENGL 101-F20,LEC,22123,Introduction to Academic Discourse,MEGAN ELIZABETH LANE,UTR,0700-0750,7-100,Open,Closed
+ENGL 101-F21,LEC,20354,Introduction to Academic Discourse,MEGAN ELIZABETH LANE,UTR,0800-0850,7-100,Open,Closed
+ENGL 101-F22,LEC,21186,Introduction to Academic Discourse,TAISEER MOHAMED MIRGHANI,UTR,0900-0950,7-113,Open,Closed
+ENGL 101-F23,LEC,22753,Introduction to Academic Discourse,TAISEER MOHAMED MIRGHANI,UTR,1000-1050,7-116,Open,Closed
+ENGL 101-F24,LEC,22773,Introduction to Academic Discourse,MEGAN ELIZABETH LANE,UTR,1100-1150,7-102,Closed,Closed
+ENGL 101-F25,LEC,22754,Introduction to Academic Discourse,PAMELA SUE DEATON,UTR,1200-1250,7-102,Open,Closed
+ENGL 101-F26,LEC,22755,Introduction to Academic Discourse,MEGAN ELIZABETH LANE,UTR,1200-1250,7-100,Open,Closed
+ENGL 101-F27,LEC,20350,Introduction to Academic Discourse,PAMELA SUE DEATON,UTR,1300-1350,7-102,Open,Closed
+ENGL 102-01,LEC,20922,Introduction to Report Writing,JONATHAN OWEN,UTR,0700-0750,24-244,Closed,Open
+ENGL 102-02,LEC,20361,Introduction to Report Writing,DRAGOS BRAD,UTR,0800-0850,76-1128,Open,Closed
+ENGL 102-03,LEC,20368,Introduction to Report Writing,JONATHAN OWEN,UTR,0800-0850,24-244,Closed,Open
+ENGL 102-04,LEC,20926,Introduction to Report Writing,DRAGOS BRAD,UTR,0900-0950,76-2152,Closed,Open
+ENGL 102-05,LEC,20356,Introduction to Report Writing,LUKE DELAHUNTY,UTR,1000-1050,3-104,Closed,Open
+ENGL 102-06,LEC,20929,Introduction to Report Writing,JORDAN HICKS,UTR,1000-1050,76-2152,Closed,Open
+ENGL 102-07,LEC,20363,Introduction to Report Writing,MICHAEL RYALL,UTR,1100-1150,6-103,Closed,Open
+ENGL 102-08,LEC,20992,Introduction to Report Writing,None,UTR,1000-1050,6-211,Closed,Closed
+ENGL 102-09,LEC,20991,Introduction to Report Writing,LUKE DELAHUNTY,UTR,1100-1150,3-108,Closed,Open
+ENGL 102-10,LEC,20365,Introduction to Report Writing,JORDAN HICKS,UTR,1100-1150,76-2126,Closed,Open
+ENGL 102-11,LEC,22124,Introduction to Report Writing,JASON MARKOWSKY,UTR,1100-1150,6-209,Closed,Closed
+ENGL 102-12,LEC,20359,Introduction to Report Writing,MICHAEL RYALL,UTR,1200-1250,6-163,Closed,Closed
+ENGL 102-13,LEC,20360,Introduction to Report Writing,None,UTR,1100-1150,22-121,Closed,Closed
+ENGL 102-14,LEC,22756,Introduction to Report Writing,None,UTR,1100-1150,3-101,Closed,Open
+ENGL 102-15,LEC,22757,Introduction to Report Writing,MAHIR GAZDAR,UTR,1200-1250,6-105,Closed,Closed
+ENGL 102-16,LEC,22758,Introduction to Report Writing,ADIL MAHMOOD,UTR,1100-1150,63-223,Closed,Open
+ENGL 102-17,LEC,22759,Introduction to Report Writing,JASON MARKOWSKY,UTR,1200-1250,6-211,Open,Closed
+ENGL 102-18,LEC,22760,Introduction to Report Writing,None,UTR,1200-1250,19-413,Closed,Closed
+ENGL 102-19,LEC,22761,Introduction to Report Writing,None,UTR,1200-1250,19-405,Closed,Closed
+ENGL 102-20,LEC,22762,Introduction to Report Writing,MAHIR GAZDAR,UTR,1300-1350,6-105,Closed,Closed
+ENGL 102-21,LEC,22763,Introduction to Report Writing,JOHN HAMILTON,UTR,1300-1350,24-153,Closed,Open
+ENGL 102-22,LEC,22604,Introduction to Report Writing,JORDAN HICKS,UTR,1300-1350,6-211,Closed,Open
+ENGL 102-23,LEC,20367,Introduction to Report Writing,ADIL MAHMOOD,UTR,1200-1250,63-037,Closed,Closed
+ENGL 102-24,LEC,20364,Introduction to Report Writing,None,UTR,1300-1350,3-104,Closed,Closed
+ENGL 102-25,LEC,23800,Introduction to Report Writing,None,UTR,1300-1350,3-108,Closed,Closed
+ENGL 102-26,LEC,22764,Introduction to Report Writing,JOHN HAMILTON,UTR,1400-1450,24-115,Closed,Closed
+ENGL 102-27,LEC,20369,Introduction to Report Writing,JORDAN HICKS,UTR,1400-1450,6-101,Closed,Open
+ENGL 102-28,LEC,20366,Introduction to Report Writing,None,UTR,1400-1450,24-125,Closed,Closed
+ENGL 102-29,LEC,22765,Introduction to Report Writing,MALCOLM BANCROFT,UTR,1520-1610,76-1128,Open,Closed
+ENGL 102-F30,LEC,20928,Introduction to Report Writing,SIMON ALBRIGHT,MW,1130-1245,7-113,Closed,Open
+ENGL 102-F31,LEC,22766,Introduction to Report Writing,SIMON ALBRIGHT,MW,1000-1115,7-113,Closed,Open
+ENGL 102-F32,LEC,22767,Introduction to Report Writing,PAMELA SUE DEATON,UTR,0900-0950,7-114,Closed,Closed
+ENGL 102-F33,LEC,20927,Introduction to Report Writing,PAMELA SUE DEATON,UTR,1000-1050,7-114,Open,Closed
+ENGL 102-F34,LEC,23478,Introduction to Report Writing,DAWN BOOTH,UTR,1100-1150,7-113,Closed,Open
+ENGL 102-F35,LEC,23479,Introduction to Report Writing,TAISEER MOHAMED MIRGHANI,UTR,1200-1250,7-114,Open,Closed
+ENGL 102-F36,LEC,23514,Introduction to Report Writing,DAWN BOOTH,UTR,1200-1250,7-113,Closed,Open
+ENGL 102-F37,LEC,23562,Introduction to Report Writing,TAISEER MOHAMED MIRGHANI,UTR,1300-1350,7-113,Open,Closed
+ENGL 214-01,LEC,20930,Academic & Professional Communication,ALEX LOWRY,MW,1000-1115,76-2152,Open,Closed
+ENGL 214-02,LEC,20379,Academic & Professional Communication,ADAM KHAN,UTR,0800-0850,24-149,Closed,Closed
+ENGL 214-03,LEC,20931,Academic & Professional Communication,DANIEL MAHONY,UTR,0800-0850,24-240,Closed,Closed
+ENGL 214-04,LEC,22769,Academic & Professional Communication,STEPHEN WATTS,UTR,0800-0850,6-209,Closed,Closed
+ENGL 214-05,LEC,22770,Academic & Professional Communication,PETER EDWARDS,UTR,0900-0950,24-249,Closed,Closed
+ENGL 214-06,LEC,20372,Academic & Professional Communication,ADAM KHAN,UTR,0900-0950,24-180,Closed,Open
+ENGL 214-07,LEC,23630,Academic & Professional Communication,STEVEN LEES,UTR,0900-0950,24-250,Closed,Closed
+ENGL 214-08,LEC,23781,Academic & Professional Communication,DANIEL MAHONY,UTR,0900-0950,24-156,Closed,Closed
+ENGL 214-09,LEC,23799,Academic & Professional Communication,STEPHEN WATTS,UTR,0900-0950,6-103,Closed,Closed
+ENGL 214-10,LEC,20373,Academic & Professional Communication,JOSEPH MARK CAMERON,UTR,1000-1050,24-135,Closed,Open
+ENGL 214-11,LEC,22128,Academic & Professional Communication,PETER EDWARDS,UTR,1000-1050,24-240,Closed,Open
+ENGL 214-12,LEC,23631,Academic & Professional Communication,LANCE KING,UTR,1000-1050,6-103,Closed,Open
+ENGL 214-13,LEC,23782,Academic & Professional Communication,STEVEN LEES,UTR,1000-1050,24-240,Closed,Open
+ENGL 214-14,LEC,23614,Academic & Professional Communication,CHRISTOPHER O'NEILL,UTR,1000-1050,6-106,Closed,Open
+ENGL 214-15,LEC,20370,Academic & Professional Communication,JOSEPH MARK CAMERON,UTR,1100-1150,24-240,Closed,Open
+ENGL 214-16,LEC,20374,Academic & Professional Communication,LANCE KING,UTR,1100-1150,6-258,Closed,Open
+ENGL 214-18,LEC,23783,Academic & Professional Communication,CHRISTOPHER O'NEILL,UTR,1100-1150,6-166,Closed,Open
+ENGL 214-19,LEC,23784,Academic & Professional Communication,CHRIS SCHOFIELD,UTR,1100-1150,6-200,Closed,Open
+ENGL 214-20,LEC,20375,Academic & Professional Communication,STEVEN LEES,UTR,1200-1250,63-034,Closed,Closed
+ENGL 214-22,LEC,23264,Academic & Professional Communication,CHRIS SCHOFIELD,UTR,1200-1250,6-106,Closed,Open
+ENGL 214-23,LEC,23265,Academic & Professional Communication,LUKE DELAHUNTY,UTR,1300-1350,63-031,Closed,Open
+ENGL 214-24,LEC,23613,Academic & Professional Communication,STEVEN LEES,UTR,1300-1350,63-124,Closed,Open
+ENGL 214-25,LEC,22772,Academic & Professional Communication,CHRISTOPHER O'NEILL,UTR,1300-1350,6-106,Open,Closed
+ENGL 214-26,LEC,20933,Academic & Professional Communication,LUKE DELAHUNTY,UTR,1400-1450,63-026,Closed,Closed
+ENGL 214-27,LEC,20932,Academic & Professional Communication,CHRISTOPHER O'NEILL,UTR,1400-1450,6-103,Closed,Closed
+ENGL 214-28,LEC,23647,Academic & Professional Communication,CHRIS SCHOFIELD,UTR,1400-1450,6-105,Closed,Closed
+ENGL 214-30,LEC,24430,Academic & Professional Communication,JOSEPH MARK CAMERON,UTR,0700-0750,24-178,Closed,Closed
+ENGL 214-31,LEC,24431,Academic & Professional Communication,JOSEPH MARK CAMERON,UTR,0800-0850,24-178,Closed,Closed
+ENGL 214-32,LEC,24432,Academic & Professional Communication,STEVEN LEES,UTR,0800-0850,24-250,Closed,Closed
+ENGL 214-F29,LEC,20378,Academic & Professional Communication,DAWN BOOTH,UTR,1400-1450,7-100,Open,Closed
+GS 318-01,LEC,20993,World Civilizations,NAWAF ALMADKHALI,MW,1000-1115,59-2016,Open,Closed
+GS 318-02,LEC,20994,World Civilizations,NAWAF ALMADKHALI,MW,1300-1415,59-2016,Open,Open
+GS 318-03,LEC,23001,World Civilizations,NAWAF ALMADKHALI,UT,1100-1215,59-2016,Open,Closed
+GS 318-04,LEC,23002,World Civilizations,NAWAF ALMADKHALI,UT,1230-1345,59-2016,Open,Closed
+IAS 111-03,LEC,22134,Belief and its Consequences,MOUSA AL-SULAMI,MW,0800-0850,59-1009,Open,Closed
+IAS 111-05,LEC,21692,Belief and its Consequences,ABDURAHMAN AL-SAADI,MW,0800-0850,63-127,Closed,Open
+IAS 111-07,LEC,20479,Belief and its Consequences,MOUSA AL-SULAMI,UT,0800-0850,24-115,Open,Closed
+IAS 111-10,LEC,21105,Belief and its Consequences,KHALED AL-ABRI,TR,1200-1250,6-200,Closed,Closed
+IAS 111-11,LEC,21625,Belief and its Consequences,SAEED AL-GHAHTANI,UT,1300-1350,6-163,Closed,Open
+IAS 111-12,LEC,20934,Belief and its Consequences,MOUSA AL-SULAMI,MW,1000-1050,59-2003,Open,Closed
+IAS 111-16,LEC,22133,Belief and its Consequences,ABDURAHMAN AL-SAADI,MW,0700-0750,63-127,Closed,Open
+IAS 111-18,LEC,23266,Belief and its Consequences,SAEED AL-GHAHTANI,UT,1400-1450,6-163,Closed,Open
+IAS 111-19,LEC,22135,Belief and its Consequences,SAEED AL-GHAHTANI,UT,1200-1250,6-101,Closed,Open
+IAS 111-22,LEC,21103,Belief and its Consequences,KHALED AL-ABRI,TR,1100-1150,6-257,Closed,Closed
+IAS 111-28,LEC,22136,Belief and its Consequences,SAEED AL-GHAHTANI,MW,1200-1250,59-1011,Closed,Open
+IAS 111-29,LEC,24344,Belief and its Consequences,SAEED AL-GHAHTANI,MW,1400-1450,59-1003,Closed,Open
+IAS 111-30,LEC,24345,Belief and its Consequences,KHALED AL-ABRI,TR,0900-0950,6-101,Open,Closed
+IAS 111-31,LEC,22137,Belief and its Consequences,KHALED AL-ABRI,TR,0800-0850,6-103,Open,Closed
+IAS 111-32,LEC,24346,Belief and its Consequences,MOUSA AL-SULAMI,MW,0900-0950,59-1003,Open,Closed
+IAS 111-33,LEC,23011,Belief and its Consequences,SAEED AL-GHAHTANI,MW,1300-1350,59-1007,Closed,Open
+IAS 111-34,LEC,24347,Belief and its Consequences,KHALED AL-ABRI,TR,1000-1050,6-200,Open,Closed
+IAS 111-35,LEC,24348,Belief and its Consequences,MOUSA AL-SULAMI,UT,1000-1050,24-151,Open,Closed
+IAS 111-36,LEC,23268,Belief and its Consequences,ABDURAHMAN AL-SAADI,MW,0900-0950,63-127,Closed,Open
+IAS 111-41,LEC,24349,Belief and its Consequences,MOUSA AL-SULAMI,UT,0900-0950,24-158,Open,Closed
+IAS 111-F29,LEC,21693,Belief and its Consequences,EMAN SALEH,UT,1300-1350,7-100,Closed,Open
+IAS 111-F43,LEC,20476,Belief and its Consequences,MAY QUSAYER,MW,0900-0950,7-100,Closed,Closed
+IAS 111-F44,LEC,23684,Belief and its Consequences,MAY QUSAYER,MW,1000-1050,7-100,Open,Closed
+IAS 111-F45,LEC,23685,Belief and its Consequences,MAY QUSAYER,MW,0800-0850,7-100,Open,Closed
+IAS 111-F46,LEC,20478,Belief and its Consequences,EMAN SALEH,UT,1400-1450,7-102,Open,Closed
+IAS 111-F47,LEC,21691,Belief and its Consequences,EMAN SALEH,UT,1500-1550,7-100,Open,Closed
+IAS 111-F48,LEC,24499,Belief and its Consequences,MAY QUSAYER,UT,0800-0850,7-119,Open,Closed
+IAS 111-F49,LEC,24500,Belief and its Consequences,MAY QUSAYER,UT,0900-0950,7-119,Open,Closed
+IAS 111-F50,LEC,24501,Belief and its Consequences,MAY QUSAYER,UT,1000-1050,7-119,Open,Closed
+IAS 121-02,LEC,21628,Language Foundation,ABDULLAH ALDOSARI,MW,0900-0950,24-165,Open,Closed
+IAS 121-07,LEC,20471,Language Foundation,ABDULLAH ALDOSARI,UT,0800-0850,24-128,Open,Closed
+IAS 121-08,LEC,20474,Language Foundation,ABDULLAH ALDOSARI,MW,0800-0850,24-146,Open,Closed
+IAS 121-09,LEC,21172,Language Foundation,KHALID AL-TWAIGERI,UT,0900-0950,63-232,Closed,Open
+IAS 121-10,LEC,21109,Language Foundation,KHALID AL-TWAIGERI,MW,1100-1150,59-1010,Closed,Open
+IAS 121-13,LEC,22871,Language Foundation,A AL-ZAHRANI,TR,1100-1150,59-1017,Closed,Closed
+IAS 121-15,LEC,21177,Language Foundation,ABDULLAH IBRAHIM,UT,0700-0750,6-106,Closed,Closed
+IAS 121-16,LEC,22130,Language Foundation,KHALID AL-TWAIGERI,UT,1100-1150,63-125,Closed,Open
+IAS 121-17,LEC,20473,Language Foundation,ABDULLAH IBRAHIM,UT,0800-0850,6-106,Closed,Closed
+IAS 121-19,LEC,23471,Language Foundation,KHALID AL-TWAIGERI,UT,1000-1050,63-224,Closed,Closed
+IAS 121-20,LEC,23472,Language Foundation,ABDULLAH IBRAHIM,UT,0900-0950,6-106,Closed,Open
+IAS 121-22,LEC,22131,Language Foundation,KHALID AL-TWAIGERI,MW,1000-1050,59-2013,Closed,Open
+IAS 121-25,LEC,20472,Language Foundation,A AL-ZAHRANI,MW,1100-1150,59-1015,Closed,Open
+IAS 121-28,LEC,22873,Language Foundation,A AL-ZAHRANI,TR,1200-1250,59-1017,Closed,Open
+IAS 121-29,LEC,23473,Language Foundation,A AL-ZAHRANI,MW,1000-1050,59-1017,Closed,Open
+IAS 121-31,LEC,23022,Language Foundation,ABDULLAH ALDOSARI,UT,1000-1050,24-125,Closed,Closed
+IAS 121-32,LEC,23023,Language Foundation,ABDULLAH ALDOSARI,UT,0900-0950,24-178,Open,Closed
+IAS 121-34,LEC,23270,Language Foundation,A AL-ZAHRANI,TR,1000-1050,59-2015,Closed,Closed
+IAS 121-F01,LEC,20475,Language Foundation,HAIFA ALMEKLAL,UT,0900-0950,7-100,Closed,Open
+IAS 121-F03,LEC,21623,Language Foundation,HAIFA ALMEKLAL,UT,1000-1050,7-102,Closed,Open
+IAS 121-F30,LEC,22132,Language Foundation,HAIFA ALMEKLAL,UT,1100-1150,7-100,Closed,Open
+IAS 121-F31,LEC,24524,Language Foundation,HAIFA ALMEKLAL,UT,1200-1250,7-116,Open,Closed
+IAS 131-01,LLB,24128,Reading and Writing,MOHAMMED AL-ZAHRANI,MW,0700-0850,6-101,Closed,Closed
+IAS 201-01,LEC,20482,Writing for Professional Needs,ESSAM OSMAN,UT,0900-0950,76-1131,Closed,Closed
+IAS 212-02,LEC,20489,Ethics and Governance,FAHAD ALKHUSHAIM AL-DOSSSARY,UT,0900-0950,24-244,Closed,Closed
+IAS 212-04,LEC,20484,Ethics and Governance,AHMAD AL-ENAIZAN,MW,1000-1050,59-2004,Closed,Closed
+IAS 212-06,LEC,21630,Ethics and Governance,FAHAD ALKHUSHAIM AL-DOSSSARY,MW,0900-0950,24-236A,Closed,Closed
+IAS 212-08,LEC,20491,Ethics and Governance,FAHAD ALKHUSHAIM AL-DOSSSARY,MW,0800-0850,24-240,Open,Closed
+IAS 212-09,LEC,21629,Ethics and Governance,ABDULRAHMAN AL-KHALDI,UT,0900-0950,6-211,Closed,Closed
+IAS 212-10,LEC,20492,Ethics and Governance,ABDULRAHMAN AL-KHALDI,MW,0900-0950,63-124,Closed,Open
+IAS 212-11,LEC,20485,Ethics and Governance,FAHAD ALKHUSHAIM AL-DOSSSARY,UT,0800-0850,24-116,Open,Closed
+IAS 212-12,LEC,21626,Ethics and Governance,KHALID AL-SULIMAN,MW,1100-1150,59-1014,Closed,Open
+IAS 212-13,LEC,20938,Ethics and Governance,AHMAD AL-ENAIZAN,MW,1100-1150,59-1016,Closed,Open
+IAS 212-15,LEC,20483,Ethics and Governance,KHALID AL-GHAMDI,UT,0700-0750,24-250,Closed,Closed
+IAS 212-16,LEC,20486,Ethics and Governance,KHALID AL-GHAMDI,MW,0700-0750,24-165,Open,Closed
+IAS 212-17,LEC,21694,Ethics and Governance,KHALID AL-GHAMDI,UT,0800-0850,24-249,Open,Closed
+IAS 212-18,LEC,20487,Ethics and Governance,KHALID AL-GHAMDI,MW,0800-0850,24-165,Open,Closed
+IAS 212-21,LEC,20490,Ethics and Governance,AHMAD AL-ENAIZAN,UT,0800-0850,59-1016,Open,Closed
+IAS 212-22,LEC,21106,Ethics and Governance,ABDULRAHMAN AL-KHALDI,MW,1100-1150,63-326,Closed,Open
+IAS 212-26,LEC,21695,Ethics and Governance,AHMAD AL-ENAIZAN,UT,0900-0950,59-1008,Open,Closed
+IAS 212-27,LEC,22138,Ethics and Governance,ABDULRAHMAN AL-KHALDI,UT,1000-1050,6-257,Closed,Open
+IAS 212-28,LEC,22139,Ethics and Governance,AHMAD AL-ENAIZAN,MW,0900-0950,59-2003,Open,Closed
+IAS 212-29,LEC,20488,Ethics and Governance,KHALID AL-GHAMDI,UT,0900-0950,24-236A,Open,Closed
+IAS 212-30,LEC,22140,Ethics and Governance,ABDULRAHMAN AL-KHALDI,MW,1000-1050,63-326,Closed,Open
+IAS 212-31,LEC,22141,Ethics and Governance,KHALID AL-SULIMAN,UT,1100-1150,63-226,Closed,Closed
+IAS 212-32,LEC,22142,Ethics and Governance,ABDULRAHMAN AL-KHALDI,UT,1100-1150,6-201,Closed,Open
+IAS 212-33,LEC,23274,Ethics and Governance,KHALID AL-SULIMAN,UT,1200-1250,63-139,Closed,Open
+IAS 212-34,LEC,23275,Ethics and Governance,KHALID AL-SULIMAN,MW,1200-1250,59-1005,Closed,Open
+IAS 212-36,LEC,23276,Ethics and Governance,KHALID AL-SULIMAN,MW,1300-1350,59-1011,Open,Closed
+IAS 212-37,LEC,23277,Ethics and Governance,AHMAD AL-ENAIZAN,UT,1000-1050,59-2024,Closed,Open
+IAS 212-38,LEC,23278,Ethics and Governance,KHALID AL-GHAMDI,MW,0900-0950,24-116,Open,Closed
+IAS 212-39,LEC,24382,Ethics and Governance,FAHAD ALKHUSHAIM AL-DOSSSARY,UT,1000-1050,24-141,Closed,Open
+IAS 212-99,LEC,24121,Ethics and Governance (Non Arabic Speakers),FAHAD ALKHUSHAIM AL-DOSSSARY,MW,1000-1050,24-158,Closed,Closed
+IAS 212-F01,LEC,23279,Ethics and Governance,MAY QUSAYER,MW,1200-1250,7-100,Open,Closed
+IAS 212-F02,LEC,24341,Ethics and Governance,EMAN SALEH,UT,1200-1250,7-120,Closed,Open
+IAS 322-01,LEC,21719,Human Rights in Islam,ABDULRAHMAN HOWSAWI,UT,0900-0950,59-1010,Open,Closed
+IAS 322-03,LEC,20496,Human Rights in Islam,HASAN SENDI,UT,1000-1050,59-1008,Closed,Open
+IAS 322-04,LEC,21836,Human Rights in Islam,HASAN SENDI,MW,1000-1050,59-1009,Closed,Open
+IAS 322-05,LEC,21183,Human Rights in Islam,HASAN SENDI,UT,1100-1150,59-1016,Closed,Open
+IAS 322-06,LEC,20498,Human Rights in Islam,HASAN SENDI,MW,1100-1150,59-2003,Closed,Open
+IAS 322-07,LEC,21108,Human Rights in Islam,MESFER AL-GHAHTANI,UT,1100-1150,3-109,Closed,Open
+IAS 322-08,LEC,21696,Human Rights in Islam,ABDULRAHMAN HOWSAWI,MW,0800-0850,59-1013,Open,Closed
+IAS 322-11,LEC,21631,Human Rights in Islam,MESFER AL-GHAHTANI,UT,0800-0850,6-101,Closed,Open
+IAS 322-13,LEC,20499,Human Rights in Islam,HASAN SENDI,UT,1200-1250,59-2017,Open,Open
+IAS 322-15,LEC,20497,Human Rights in Islam,MESFER AL-GHAHTANI,UT,0700-0750,6-101,Closed,Open
+IAS 322-17,LEC,20495,Human Rights in Islam,ABDULRAHMAN HOWSAWI,UT,0800-0850,59-1010,Open,Closed
+IAS 322-24,LEC,21632,Human Rights in Islam,ABDULRAHMAN HOWSAWI,MW,1000-1050,59-1013,Closed,Closed
+IAS 322-30,LEC,23841,Human Rights in Islam,ABDULRAHMAN HOWSAWI,MW,0900-0950,59-1013,Open,Closed
+IAS 322-34,LEC,23845,Human Rights in Islam,MESFER AL-GHAHTANI,UT,1000-1050,3-109,Closed,Open
+IAS 322-35,LEC,24342,Human Rights in Islam,ABDULRAHMAN HOWSAWI,UT,1000-1050,59-1010,Open,Closed
+ICS 104-01,LEC,22785,Introduction to Programming in Python and C,M BALAH,UT,0800-0850,24-120,Closed,Open
+ICS 104-02,LEC,22780,Introduction to Programming in Python and C,S ARAFAT,UT,0900-0950,24-120,Open,Open
+ICS 104-03,LEC,22781,Introduction to Programming in Python and C,S ARAFAT,UT,1000-1050,24-120,Closed,Open
+ICS 104-04,LEC,22795,Introduction to Programming in Python and C,S ARAFAT,MW,0900-0950,24-120,Closed,Closed
+ICS 104-05,LEC,23830,Introduction to Programming in Python and C,S ARAFAT,MW,1100-1150,59-1001,Closed,Open
+ICS 104-06,LEC,22813,Introduction to Programming in Python and C,M BALAH,MW,1300-1350,24-120,Closed,Open
+ICS 104-51,LAB,22814,Introduction to Programming in Python and C,None,M,0800-1040,23-070,Closed,Closed
+ICS 104-52,LAB,22815,Introduction to Programming in Python and C,None,W,0800-1040,23-070,Closed,Closed
+ICS 104-53,LAB,22816,Introduction to Programming in Python and C,None,U,1100-1340,23-070,Closed,Closed
+ICS 104-54,LAB,22817,Introduction to Programming in Python and C,None,T,1100-1340,23-070,Closed,Closed
+ICS 104-55,LAB,22826,Introduction to Programming in Python and C,None,U,1400-1640,23-070,Closed,Closed
+ICS 104-56,LAB,22818,Introduction to Programming in Python and C,None,M,1400-1640,23-070,Closed,Closed
+ICS 104-57,LAB,22819,Introduction to Programming in Python and C,None,T,1400-1640,23-070,Closed,Closed
+ICS 104-58,LAB,22820,Introduction to Programming in Python and C,None,W,1400-1640,23-070,Closed,Closed
+ICS 104-59,LAB,22821,Introduction to Programming in Python and C,None,M,0800-1040,23-077,Closed,Closed
+ICS 104-60,LAB,22822,Introduction to Programming in Python and C,None,W,0800-1040,23-077,Closed,Closed
+ICS 104-61,LAB,22823,Introduction to Programming in Python and C,None,U,1100-1340,23-077,Closed,Closed
+ICS 104-62,LAB,22824,Introduction to Programming in Python and C,None,T,1100-1340,23-077,Closed,Closed
+ICS 104-63,LAB,22825,Introduction to Programming in Python and C,None,U,1400-1640,23-077,Closed,Closed
+ICS 104-64,LAB,22848,Introduction to Programming in Python and C,None,M,1400-1640,23-077,Closed,Closed
+ICS 104-65,LAB,22827,Introduction to Programming in Python and C,None,T,1400-1640,23-077,Closed,Closed
+ICS 104-F11,LEC,23690,Introduction to Programming in Python and C,IMANE BOUDELLIOUA,MW,0800-0850,7-116,Open,Closed
+ICS 104-F12,LEC,22812,Introduction to Programming in Python and C,IMANE BOUDELLIOUA,MW,0900-0950,7-116,Closed,Open
+ICS 104-F13,LEC,22811,Introduction to Programming in Python and C,IMANE BOUDELLIOUA,MW,1100-1150,7-116,Open,Closed
+ICS 104-F71,LAB,22844,Introduction to Programming in Python and C,None,M,1100-1340,7-137,Open,Closed
+ICS 104-F72,LAB,22845,Introduction to Programming in Python and C,None,M,1400-1640,7-137,Open,Closed
+ICS 104-F73,LAB,22846,Introduction to Programming in Python and C,None,W,1100-1340,7-137,Open,Closed
+ICS 104-F74,LAB,22847,Introduction to Programming in Python and C,None,W,1400-1640,7-137,Closed,Closed
+ICS 108-01,LEC,22849,Object-Oriented Programming,MUSTAFA ALTURKI,MW,0800-0915,22-339,Closed,Closed
+ICS 108-01,LAB,22849,Object-Oriented Programming,MUSTAFA ALTURKI,MW,0930-1045,22-339,Closed,Closed
+ICS 108-02,LEC,22866,Object-Oriented Programming,YAHYA GAROUT,MW,1100-1215,22-335,Closed,Open
+ICS 108-02,LAB,22866,Object-Oriented Programming,YAHYA GAROUT,MW,1230-1345,22-335,Closed,Open
+ICS 108-03,LEC,22850,Object-Oriented Programming,RASHAD OTHMAN,MW,1100-1215,22-339,Closed,Open
+ICS 108-03,LAB,22850,Object-Oriented Programming,RASHAD OTHMAN,MW,1230-1345,22-339,Closed,Open
+ICS 108-04,LEC,22864,Object-Oriented Programming,YAHYA GAROUT,MW,0800-0915,22-335,Closed,Closed
+ICS 108-04,LAB,22864,Object-Oriented Programming,YAHYA GAROUT,MW,0930-1045,22-335,Closed,Closed
+ICS 108-05,LEC,22865,Object-Oriented Programming,MUSTAFA ALTURKI,MW,1400-1515,22-339,Open,Closed
+ICS 108-05,LAB,22865,Object-Oriented Programming,MUSTAFA ALTURKI,MW,1530-1645,22-339,Open,Closed
+ICS 108-06,LEC,22867,Object-Oriented Programming,RASHAD OTHMAN,MW,1400-1515,22-335,Closed,Open
+ICS 108-06,LAB,22867,Object-Oriented Programming,RASHAD OTHMAN,MW,1530-1645,22-335,Closed,Open
+ICS 108-F11,LEC,22868,Object-Oriented Programming,RABEAH ALZAIDY,UT,0800-0915,7-137,Closed,Open
+ICS 108-F11,LAB,22868,Object-Oriented Programming,RABEAH ALZAIDY,UT,0930-1045,7-137,Closed,Open
+ICS 108-F12,LEC,22869,Object-Oriented Programming,MALAK BASLYMAN,UT,1100-1215,7-137,Open,Closed
+ICS 108-F12,LAB,22869,Object-Oriented Programming,MALAK BASLYMAN,UT,1230-1345,7-137,Open,Closed
+ICS 108-F13,LEC,22870,Object-Oriented Programming,RABEAH ALZAIDY,UT,1400-1515,7-137,Open,Closed
+ICS 108-F13,LAB,22870,Object-Oriented Programming,RABEAH ALZAIDY,UT,1530-1645,7-137,Open,Closed
+ICS 202-01,LEC,20502,Data Structures and Algorithms,HUSNI AL-MUHTASEB,UTR,0800-0850,22-125,Open,Closed
+ICS 202-02,LEC,22099,Data Structures and Algorithms,WASFI AL-KHATIB,UTR,0900-0950,24-165,Closed,Open
+ICS 202-03,LEC,22851,Data Structures and Algorithms,WASFI AL-KHATIB,UTR,1100-1150,22-119,Closed,Open
+ICS 202-05,LEC,24070,Data Structures and Algorithms,HUSNI AL-MUHTASEB,UTR,0900-0950,22-127,Open,Closed
+ICS 202-06,LEC,24071,Data Structures and Algorithms,HUSNI AL-MUHTASEB,UTR,1100-1150,23-011,Open,Closed
+ICS 202-51,LAB,20503,Data Structures and Algorithms,None,U,1400-1640,22-335,Closed,Closed
+ICS 202-52,LAB,20504,Data Structures and Algorithms,None,T,1400-1640,22-335,Closed,Closed
+ICS 202-53,LAB,22095,Data Structures and Algorithms,None,R,1400-1640,22-335,Open,Closed
+ICS 202-54,LAB,22096,Data Structures and Algorithms,None,U,1400-1640,22-339,Closed,Closed
+ICS 202-55,LAB,24072,Data Structures and Algorithms,None,T,1400-1640,22-333,Closed,Closed
+ICS 202-56,LAB,24073,Data Structures and Algorithms,None,R,1400-1640,22-339,Open,Closed
+ICS 202-57,LAB,24074,Data Structures and Algorithms,None,U,1100-1340,22-339,Closed,Closed
+ICS 253-01,LEC,22101,Discrete Structures,S AL-MUHAMMADI,UTR,0800-0850,24-158,Open,Closed
+ICS 253-02,LEC,20506,Discrete Structures,S AL-MUHAMMADI,UTR,1000-1050,24-146,Closed,Open
+ICS 253-03,LEC,23300,Discrete Structures,S AL-MUHAMMADI,UTR,1100-1150,24-128,Closed,Open
+ICS 253-04,LEC,22100,Discrete Structures,ADEL AHMED,UTR,1000-1050,24-158,Closed,Open
+ICS 321-01,LEC,24090,Database Systems,OMER ALKHANBASHI,UTR,0800-0850,24-125,Open,Closed
+ICS 321-02,LEC,24091,Database Systems,OMER ALKHANBASHI,UTR,0900-0950,24-115,Open,Closed
+ICS 321-03,LEC,24092,Database Systems,OMER ALKHANBASHI,UTR,1100-1150,59-2022,Open,Closed
+ICS 321-05,LEC,24094,Database Systems,JAWEED YAZDANI,UTR,0900-0950,24-141,Open,Closed
+ICS 343-01,LEC,22103,Fundamentals of Computer Networks,EL-SAYED EL-ALFY,UTR,0900-0950,24-240,Closed,Open
+ICS 343-02,LEC,20509,Fundamentals of Computer Networks,EL-SAYED EL-ALFY,UTR,1000-1050,24-165,Closed,Open
+ICS 343-03,LEC,23642,Fundamentals of Computer Networks,EL-SAYED EL-ALFY,UTR,1200-1250,22-127,Open,Closed
+ICS 343-51,LAB,20954,Fundamentals of Computer Networks (Old Curriculum),None,U,1400-1640,22-347A,Closed,Closed
+ICS 343-52,LAB,20510,Fundamentals of Computer Networks,None,T,1400-1640,22-347A,Closed,Closed
+ICS 343-53,LAB,21293,Fundamentals of Computer Networks,None,R,1400-1640,22-347A,Closed,Closed
+ICS 343-54,LAB,23643,Fundamentals of Computer Networks,None,U,1100-1340,22-347A,Open,Closed
+ICS 343-55,LAB,24067,Fundamentals of Computer Networks,None,T,1100-1340,22-347A,Closed,Closed
+ICS 343-56,LAB,24485,Fundamentals of Computer Networks,ADICHE HAKIM,M,1400-1640,22-347A,Closed,Closed
+ICS 343-57,LAB,24486,Fundamentals of Computer Networks,ADICHE HAKIM,W,1400-1640,22-347A,Closed,Closed
+ICS 344-01,LEC,24095,Information Security,MD MAHFUZUR RAHMAN,UTR,0800-0850,24-165,Open,Closed
+ICS 344-02,LEC,24096,Information Security,MD MAHFUZUR RAHMAN,UTR,0900-0950,22-132,Closed,Open
+ICS 344-03,LEC,24097,Information Security,FARAG AZZEDIN,UTR,1100-1150,24-158,Closed,Open
+ICS 472-01,LEC,23689,Natural Language Processing,AHMAD IRFAN,UT,1400-1515,24-137,Open,Closed
+ICS 433-01,LEC,24369,Operating Systems,T EL-BASSUNY,UTR,1000-1050,22-130,Closed,Closed
+ICS 433-51,LAB,24370,Operating Systems,T EL-BASSUNY,R,1720-2000,22-336,Closed,Closed
+ICS 483-01,LEC,22856,Computer Vision,MUHAMMAD USMAN,UT,1230-1345,22-134,Open,Closed
+SWE 206-01,LEC,23313,Introduction to Software Engineering,SAJJAD MAHMOOD,MW,0800-0850,23-011,Open,Closed
+SWE 206-02,LEC,23314,Introduction to Software Engineering,SAJJAD MAHMOOD,MW,0900-0950,22-127,Open,Closed
+SWE 206-03,LEC,23644,Introduction to Software Engineering,SAJJAD MAHMOOD,MW,1100-1150,22-125,Closed,Open
+SWE 206-04,LEC,24075,Introduction to Software Engineering,SAJJAD MAHMOOD,MW,1300-1350,22-132,Closed,Closed
+SWE 206-51,LAB,23315,Introduction to Software Engineering,None,U,1400-1640,22-334,Closed,Closed
+SWE 206-52,LAB,23316,Introduction to Software Engineering,None,M,1400-1640,22-334,Closed,Closed
+SWE 206-53,LAB,23645,Introduction to Software Engineering,None,T,1400-1640,22-334,Closed,Closed
+SWE 206-54,LAB,24078,Introduction to Software Engineering,None,W,1400-1640,22-334,Closed,Closed
+SWE 206-55,LAB,24079,Introduction to Software Engineering,None,R,1400-1640,22-334,Closed,Closed
+SWE 216-01,LEC,23317,Software Requirements Engineering,Y HASSAN,MW,1000-1115,24-137,Closed,Closed
+SWE 216-02,LEC,23318,Software Requirements Engineering,Y HASSAN,MW,1230-1345,24-137,Closed,Closed
+SWE 316-01,LEC,20955,Software Design and Construction,KHALID AL-JASER,UTR,1000-1050,22-127,Closed,Closed
+SWE 316-02,LEC,24082,Software Design and Construction,KHALID AL-JASER,UTR,1100-1150,59-2017,Open,Closed
+SWE 326-01,LEC,20520,Software Testing,MOHAMMAD AMRO,UTR,0800-0850,59-2002,Open,Closed
+SWE 326-02,LEC,22108,Software Testing,MOHAMMAD AMRO,UTR,0900-0950,24-153,Closed,Closed
+SWE 326-03,LEC,24083,Software Testing,JAMELEDDINE HASSINE,UTR,1100-1150,24-116,Closed,Open
+SWE 326-04,LEC,24084,Software Testing,MOATAZ AHMED,UTR,0800-0850,22-119,Open,Closed
+SWE 326-05,LEC,24085,Software Testing,MOATAZ AHMED,UTR,1000-1050,23-014,Closed,Open
+SWE 363-01,LEC,20521,Web Engineering & Development,ISMAIL ALA ADDIN,MW,0830-0945,24-115,Open,Closed
+SWE 363-02,LEC,21852,Web Engineering & Development,ISMAIL ALA ADDIN,MW,1000-1115,24-128,Open,Closed
+SWE 363-03,LEC,24086,Web Engineering & Development,MD MUSFIQUE ANWAR,MW,0830-0945,24-240,Open,Closed
+SWE 363-04,LEC,24518,Web Engineering & Development,MD MUSFIQUE ANWAR,MW,1000-1115,22-119,Closed,Open
+SWE 387-01,LEC,20522,Software Project Management,MOHAMMAD ALSHAYEB,MW,1000-1115,23-014,Closed,Open
+SWE 387-02,LEC,21853,Software Project Management,MOHAMMAD ALSHAYEB,MW,1230-1345,22-125,Closed,Open
+SWE 411-01,LPJ,24439,Software Engineering Project I,None,W,1720-2000,24-240,Closed,Closed
+MATH 101-01,REC,20001,Calculus I,FIRAS MELAIH,M,0800-0850,5-101,Closed,Open
+MATH 101-01,LEC,20001,Calculus I,BADER AL-HUMIDI,UTR,0800-0850,63-331,Closed,Open
+MATH 101-02,REC,20961,Calculus I,FIRAS MELAIH,M,0900-0950,5-101,Closed,Open
+MATH 101-02,LEC,20961,Calculus I,BADER AL-HUMIDI,UTR,0800-0850,63-331,Closed,Open
+MATH 101-03,REC,20002,Calculus I,FIRAS MELAIH,M,1000-1050,5-101,Closed,Open
+MATH 101-03,LEC,20002,Calculus I,BADER AL-HUMIDI,UTR,0800-0850,63-331,Closed,Open
+MATH 101-04,REC,24489,Calculus I,None,W,1100-1150,22-231,Open,Closed
+MATH 101-04,LEC,24489,Calculus I,FAISAL FAIRAG,UTR,1200-1250,24-121,Open,Closed
+MATH 101-05,REC,24490,Calculus I,None,W,1200-1250,22-231,Open,Closed
+MATH 101-05,LEC,24490,Calculus I,FAISAL FAIRAG,UTR,1200-1250,24-121,Open,Closed
+MATH 101-F31,REC,20004,Calculus I,SHAHAD ALDOSSARY,M,0800-0850,7-225,Open,Closed
+MATH 101-F31,LEC,20004,Calculus I,HUSAIN AL-ATTAS,UTR,1000-1050,7-121,Open,Closed
+MATH 101-F32,REC,23880,Calculus I,SHAHAD ALDOSSARY,M,0900-0950,7-225,Closed,Closed
+MATH 101-F32,LEC,23880,Calculus I,HUSAIN AL-ATTAS,UTR,1000-1050,7-121,Closed,Closed
+MATH 102-01,REC,20006,Calculus II,YUSSIF YAHAYA,M,0800-0850,22-231,Closed,Closed
+MATH 102-01,LEC,20006,Calculus II,KHALID AL-SHAMMARI,UTR,0800-0850,24-121,Closed,Closed
+MATH 102-02,REC,20009,Calculus II,YUSSIF YAHAYA,M,0900-0950,22-231,Closed,Closed
+MATH 102-02,LEC,20009,Calculus II,KHALID AL-SHAMMARI,UTR,0800-0850,24-121,Closed,Closed
+MATH 102-03,REC,20012,Calculus II,YUSSIF YAHAYA,M,1000-1050,22-231,Closed,Closed
+MATH 102-03,LEC,20012,Calculus II,KHALID AL-SHAMMARI,UTR,0800-0850,24-121,Closed,Closed
+MATH 102-04,REC,20008,Calculus II,NAIM SHEHU,W,0800-0850,5-101,Closed,Open
+MATH 102-04,LEC,20008,Calculus II,KHALID AL-SHAMMARI,UTR,0900-0950,24-121,Closed,Open
+MATH 102-05,REC,20022,Calculus II,NAIM SHEHU,W,0900-0950,5-101,Closed,Closed
+MATH 102-05,LEC,20022,Calculus II,KHALID AL-SHAMMARI,UTR,0900-0950,24-121,Closed,Closed
+MATH 102-06,REC,20005,Calculus II,NAIM SHEHU,W,1000-1050,5-101,Closed,Open
+MATH 102-06,LEC,20005,Calculus II,KHALID AL-SHAMMARI,UTR,0900-0950,24-121,Closed,Open
+MATH 102-07,REC,20007,Calculus II,SIAKA JAWARA,W,1100-1150,5-101,Closed,Open
+MATH 102-07,LEC,20007,Calculus II,SAEED AL-GARNI,UTR,1000-1050,59-1001,Closed,Open
+MATH 102-08,REC,20011,Calculus II,SIAKA JAWARA,W,1200-1250,5-101,Closed,Open
+MATH 102-08,LEC,20011,Calculus II,SAEED AL-GARNI,UTR,1000-1050,59-1001,Closed,Open
+MATH 102-09,REC,20014,Calculus II,SIAKA JAWARA,W,1300-1350,5-101,Closed,Closed
+MATH 102-09,LEC,20014,Calculus II,SAEED AL-GARNI,UTR,1000-1050,59-1001,Closed,Closed
+MATH 102-10,REC,20017,Calculus II,KAWSU DARBOE,M,1100-1150,5-101,Closed,Open
+MATH 102-10,LEC,20017,Calculus II,SAEED AL-GARNI,UTR,1100-1150,24-121,Closed,Open
+MATH 102-11,REC,20024,Calculus II,KAWSU DARBOE,M,1200-1250,5-101,Closed,Open
+MATH 102-11,LEC,20024,Calculus II,SAEED AL-GARNI,UTR,1100-1150,24-121,Closed,Open
+MATH 102-12,REC,20013,Calculus II,KAWSU DARBOE,M,1300-1350,5-101,Closed,Open
+MATH 102-12,LEC,20013,Calculus II,SAEED AL-GARNI,UTR,1100-1150,24-121,Closed,Open
+MATH 102-13,REC,20023,Calculus II,YONGKY PRANADA,M,0800-0850,5-202,Closed,Open
+MATH 102-13,LEC,20023,Calculus II,J AL-SMAIL,UTR,0700-0750,59-1001,Closed,Open
+MATH 102-14,REC,20021,Calculus II,YONGKY PRANADA,M,0900-0950,5-202,Closed,Open
+MATH 102-14,LEC,20021,Calculus II,J AL-SMAIL,UTR,0700-0750,59-1001,Closed,Open
+MATH 102-15,REC,20020,Calculus II,YONGKY PRANADA,M,1000-1050,5-202,Closed,Closed
+MATH 102-15,LEC,20020,Calculus II,J AL-SMAIL,UTR,0700-0750,59-1001,Closed,Closed
+MATH 102-16,REC,20015,Calculus II,SHAFIQ ABASS,W,0800-0850,5-202,Closed,Open
+MATH 102-16,LEC,20015,Calculus II,J AL-SMAIL,UTR,0900-0950,63-331,Closed,Open
+MATH 102-17,REC,20016,Calculus II,SHAFIQ ABASS,W,0900-0950,5-202,Closed,Open
+MATH 102-17,LEC,20016,Calculus II,J AL-SMAIL,UTR,0900-0950,63-331,Closed,Open
+MATH 102-18,REC,21514,Calculus II,SHAFIQ ABASS,W,1000-1050,5-202,Closed,Open
+MATH 102-18,LEC,21514,Calculus II,J AL-SMAIL,UTR,0900-0950,63-331,Closed,Open
+MATH 102-19,REC,20019,Calculus II,MOHAMMED DAMAJ,W,1100-1150,5-202,Open,Closed
+MATH 102-19,LEC,20019,Calculus II,BRAHIM MEZERDI,UTR,1300-1350,59-1001,Open,Closed
+MATH 102-20,REC,20018,Calculus II,MOHAMMED DAMAJ,W,1200-1250,5-202,Open,Closed
+MATH 102-20,LEC,20018,Calculus II,BRAHIM MEZERDI,UTR,1300-1350,59-1001,Open,Closed
+MATH 102-21,REC,20010,Calculus II,MOHAMMED DAMAJ,W,1300-1350,5-202,Closed,Closed
+MATH 102-21,LEC,20010,Calculus II,BRAHIM MEZERDI,UTR,1300-1350,59-1001,Closed,Closed
+MATH 102-22,REC,20962,Calculus II,SULYMAN IYANDA,M,1100-1150,5-202,Open,Closed
+MATH 102-22,LEC,20962,Calculus II,M AL-SHAHRANI,UTR,1200-1250,24-120,Open,Closed
+MATH 102-23,REC,21515,Calculus II,SULYMAN IYANDA,M,1200-1250,5-202,Closed,Open
+MATH 102-23,LEC,21515,Calculus II,M AL-SHAHRANI,UTR,1200-1250,24-120,Closed,Open
+MATH 102-24,REC,20025,Calculus II,SULYMAN IYANDA,M,1300-1350,5-202,Open,Closed
+MATH 102-24,LEC,20025,Calculus II,M AL-SHAHRANI,UTR,1200-1250,24-120,Open,Closed
+MATH 102-F31,REC,22064,Calculus II,None,W,0800-0850,7-220,Closed,Open
+MATH 102-F31,LEC,22064,Calculus II,None,UTR,0800-0850,14-108,Closed,Open
+MATH 102-F32,REC,24211,Calculus II,None,W,0900-0950,7-220,Closed,Open
+MATH 102-F32,LEC,24211,Calculus II,None,UTR,0800-0850,14-108,Closed,Open
+MATH 102-F33,REC,24212,Calculus II,None,W,1000-1050,7-220,Open,Closed
+MATH 102-F33,LEC,24212,Calculus II,None,UTR,0800-0850,14-108,Open,Closed
+MATH 102-F34,REC,24213,Calculus II,MARAM ALDOSSARY,M,0800-0850,7-220,Closed,Open
+MATH 102-F34,LEC,24213,Calculus II,HATTAN TAWFIQ,UTR,1400-1450,14-108,Closed,Open
+MATH 102-F35,REC,24214,Calculus II,MARAM ALDOSSARY,M,0900-0950,7-220,Closed,Open
+MATH 102-F35,LEC,24214,Calculus II,HATTAN TAWFIQ,UTR,1400-1450,14-108,Closed,Open
+MATH 102-F36,REC,24215,Calculus II,MARAM ALDOSSARY,M,1000-1050,7-220,Closed,Open
+MATH 102-F36,LEC,24215,Calculus II,HATTAN TAWFIQ,UTR,1400-1450,14-108,Closed,Open
+MATH 102-F37,REC,24481,Calculus II,None,W,1200-1250,7-220,Open,Closed
+MATH 102-F37,LEC,24481,Calculus II,None,UTR,0800-0850,14-108,Open,Closed
+MATH 102-F38,REC,24482,Calculus II,HATTAN TAWFIQ,M,1100-1150,7-220,Closed,Open
+MATH 102-F38,LEC,24482,Calculus II,HATTAN TAWFIQ,UTR,1400-1450,14-108,Closed,Open
+MATH 105-01,LEC,21516,Finite Mathematics,YAQOUB SHEHADEH,UTR,1200-1250,63-129,Closed,Closed
+MATH 106-01,LEC,20026,Applied Calculus,MOHAMMAD KAFINI,UTR,0900-0950,59-1003,Open,Closed
+MATH 106-02,LEC,23198,Applied Calculus,MOHAMMAD KAFINI,UTR,1000-1050,59-2018,Closed,Open
+MATH 106-F31,LEC,24257,Applied Calculus,None,UTR,0900-0950,7-102,Closed,Closed
+MATH 201-01,LEC,20037,Calculus III,WALED AL-KHULAIFI,UTR,0800-0850,59-1003,Closed,Open
+MATH 201-02,LEC,20033,Calculus III,WALED AL-KHULAIFI,UTR,0900-0950,59-1017,Closed,Open
+MATH 201-03,LEC,22066,Calculus III,IBRAHIM AL-RASASI,UTR,0900-0950,59-1007,Closed,Open
+MATH 201-04,LEC,20030,Calculus III,IBRAHIM AL-RASASI,UTR,1000-1050,59-2003,Closed,Open
+MATH 201-05,LEC,20031,Calculus III,S BOUBAKER,UTR,1000-1050,24-250,Closed,Open
+MATH 201-06,LEC,20034,Calculus III,B BELHAIZA,UTR,1100-1150,63-323,Closed,Open
+MATH 201-07,LEC,22067,Calculus III,KHAIRUL SALEH,UTR,1200-1250,63-229,Closed,Open
+MATH 201-08,LEC,20036,Calculus III,ADEL KHALFALLAH,UTR,1100-1150,59-2011,Closed,Open
+MATH 201-09,LEC,20032,Calculus III,RACHID HADDOU,UTR,1400-1450,59-2018,Open,Closed
+MATH 201-10,LEC,20027,Calculus III,J ABUIHLAIL,UTR,1300-1350,59-2023,Open,Closed
+MATH 201-11,LEC,20035,Calculus III,TALEB ALKURDI,UTR,1300-1350,59-2009,Closed,Open
+MATH 201-12,LEC,24391,Calculus III,None,UTR,1200-1250,63-221,Open,Closed
+MATH 201-13,LEC,24392,Calculus III,None,UTR,1300-1350,59-2004,Open,Closed
+MATH 201-F31,LEC,20029,Calculus III,RAJAIE ALASSAR,UTR,0900-0950,7-116,Open,Closed
+MATH 201-F32,LEC,20963,Calculus III,RAJAIE ALASSAR,UTR,1000-1050,7-224,Closed,Closed
+MATH 202-01,LEC,20040,Elements of Differential Equations,JAE-CHEAN JOO,UTR,0900-0950,59-1015,Open,Closed
+MATH 202-02,LEC,20043,Elements of Differential Equations,K FURATI,UTR,1000-1050,59-1014,Closed,Open
+MATH 202-03,LEC,20039,Elements of Differential Equations,JAE-CHEAN JOO,UTR,0800-0850,59-1015,Open,Closed
+MATH 202-04,LEC,20048,Elements of Differential Equations,DHAKER KROUMI,UTR,1100-1150,59-1015,Closed,Open
+MATH 202-05,LEC,20049,Elements of Differential Equations,DHAKER KROUMI,UTR,1200-1250,59-2024,Closed,Open
+MATH 202-06,LEC,24394,Elements of Differential Equations,M YOUSUF,UTR,0800-0850,59-2011,Open,Closed
+MATH 202-07,LEC,24395,Elements of Differential Equations,M YOUSUF,UTR,1000-1050,63-325,Closed,Open
+MATH 202-08,LEC,24396,Elements of Differential Equations,HUSAIN AL-ATTAS,UTR,1100-1150,6-211,Closed,Open
+MATH 202-09,LEC,24397,Elements of Differential Equations,NASEER-EDDINE TATAR,UTR,1200-1250,63-123,Open,Closed
+MATH 208-01,LEC,20064,Introduction to Differential Equations & Linear Algebra,A BOKHARI,UTR,0900-0950,59-2015,Closed,Closed
+MATH 208-02,LEC,20052,Introduction to Differential Equations & Linear Algebra,MUHAMMAD QURESHI,UTR,0900-0950,59-1014,Closed,Open
+MATH 208-03,LEC,20053,Introduction to Differential Equations & Linear Algebra,ABDULAZIZ AL-ASSAF,UTR,1000-1050,63-135,Closed,Open
+MATH 208-04,LEC,23200,Introduction to Differential Equations & Linear Algebra,A BOKHARI,UTR,0800-0850,59-2017,Closed,Closed
+MATH 208-05,LEC,23620,Introduction to Differential Equations & Linear Algebra,MUHAMMAD QURESHI,UTR,0800-0850,59-2015,Open,Closed
+MATH 208-06,LEC,21286,Introduction to Differential Equations & Linear Algebra,ABDULAZIZ AL-ASSAF,UTR,1100-1150,63-325,Closed,Closed
+MATH 208-07,LEC,22071,Introduction to Differential Equations & Linear Algebra,ILIAS FTOUHI,UTR,1400-1450,59-1011,Closed,Open
+MATH 208-08,LEC,23208,Introduction to Differential Equations & Linear Algebra,SHAHZAD SARWAR,UTR,1400-1450,63-121,Open,Closed
+MATH 208-09,LEC,22072,Introduction to Differential Equations & Linear Algebra,E ECHI,UTR,1100-1150,63-137,Closed,Closed
+MATH 208-10,LEC,23656,Introduction to Differential Equations & Linear Algebra,ZAID SAWLAN,UTR,1300-1350,63-121,Closed,Closed
+MATH 208-11,LEC,22068,Introduction to Differential Equations & Linear Algebra,ABDESLAM MIMOUNI,UTR,1000-1050,59-1003,Closed,Open
+MATH 208-12,LEC,20051,Introduction to Differential Equations & Linear Algebra,ZAID SAWLAN,UTR,1200-1250,63-328,Closed,Open
+MATH 208-13,LEC,22070,Introduction to Differential Equations & Linear Algebra,BRAHIM MEZERDI,UTR,1200-1250,59-1010,Closed,Open
+MATH 208-14,LEC,23209,Introduction to Differential Equations & Linear Algebra,ABDULILAH KADRI,UTR,1500-1550,59-1003,Open,Closed
+MATH 208-15,LEC,23619,Introduction to Differential Equations & Linear Algebra,NASEER-EDDINE TATAR,UTR,1100-1150,63-228,Closed,Open
+STAT 319-01,LEC,23234,Probability and Statistics for Engineers and Scientists,E. AL-SAWI,UTR,0800-0850,59-2009,Open,Closed
+STAT 319-01,LAB,23234,Probability and Statistics for Engineers and Scientists,OUSMAN KHAN,M,0700-0850,22-333,Open,Closed
+STAT 319-02,LEC,23235,Probability and Statistics for Engineers and Scientists,E. AL-SAWI,UTR,0900-0950,59-2022,Closed,Closed
+STAT 319-02,LAB,23235,Probability and Statistics for Engineers and Scientists,SURYO ADI RAKHMAWAN,M,0700-0850,22-334,Closed,Closed
+STAT 319-03,LEC,23236,Probability and Statistics for Engineers and Scientists,MUSAWAR MALIK,UTR,1000-1050,59-1017,Closed,Open
+STAT 319-03,LAB,23236,Probability and Statistics for Engineers and Scientists,HAADY JALLOW,W,0700-0850,22-333,Closed,Open
+STAT 319-04,LEC,23237,Probability and Statistics for Engineers and Scientists,R. ANABOSI,UTR,0900-0950,59-2023,Closed,Open
+STAT 319-04,LAB,23237,Probability and Statistics for Engineers and Scientists,SAHEED AFOLABI,W,0700-0850,22-334,Closed,Open
+STAT 319-05,LEC,23238,Probability and Statistics for Engineers and Scientists,R. ANABOSI,UTR,1000-1050,59-1015,Closed,Open
+STAT 319-05,LAB,23238,Probability and Statistics for Engineers and Scientists,OUSMAN KHAN,M,0900-1050,22-333,Closed,Open
+STAT 319-06,LEC,23239,Probability and Statistics for Engineers and Scientists,E. AL-SAWI,UTR,1100-1150,63-321,Closed,Closed
+STAT 319-06,LAB,23239,Probability and Statistics for Engineers and Scientists,SURYO ADI RAKHMAWAN,M,0900-1050,22-334,Closed,Closed
+STAT 319-07,LEC,23240,Probability and Statistics for Engineers and Scientists,MUSAWAR MALIK,UTR,1100-1150,59-1005,Closed,Open
+STAT 319-07,LAB,23240,Probability and Statistics for Engineers and Scientists,HAADY JALLOW,W,0900-1050,22-333,Closed,Open
+STAT 319-08,LEC,23241,Probability and Statistics for Engineers and Scientists,MUSAWAR MALIK,UTR,1300-1350,59-1017,Closed,Closed
+STAT 319-08,LAB,23241,Probability and Statistics for Engineers and Scientists,SAHEED AFOLABI,W,0900-1050,22-334,Closed,Closed
+STAT 319-09,LEC,23242,Probability and Statistics for Engineers and Scientists,R. ANABOSI,UTR,1200-1250,59-2011,Closed,Open
+STAT 319-09,LAB,23242,Probability and Statistics for Engineers and Scientists,SAHEED AFOLABI,M,1100-1250,22-333,Closed,Open
+STAT 319-10,LEC,23243,Probability and Statistics for Engineers and Scientists,MOHAMMED SALEH,UTR,1400-1450,59-1014,Closed,Closed
+STAT 319-10,LAB,23243,Probability and Statistics for Engineers and Scientists,FUHAD AHMED,M,1200-1350,22-334,Closed,Closed
+STAT 319-11,LEC,23244,Probability and Statistics for Engineers and Scientists,MOHAMMED SALEH,UTR,1500-1550,59-1005,Closed,Closed
+STAT 319-11,LAB,23244,Probability and Statistics for Engineers and Scientists,FUHAD AHMED,W,1100-1250,22-333,Closed,Closed
+STAT 319-12,LEC,24588,Probability and Statistics for Engineers and Scientists,None,UTR,0800-0850,59-2018,Open,Closed
+STAT 319-12,LAB,24588,Probability and Statistics for Engineers and Scientists,None,M,1400-1550,5-202,Open,Closed
+BUS 200-01,LEC,22885,Business & Entrepreneurship,None,UT,1100-1215,59-2018,Closed,Open
+BUS 200-02,LEC,22886,Business & Entrepreneurship,None,UT,1230-1345,59-1007,Closed,Open
+BUS 200-03,LEC,22988,Business & Entrepreneurship,None,UT,1400-1515,24-141,Closed,Open
+BUS 200-04,LEC,23403,Business & Entrepreneurship,None,UT,1230-1345,59-2021,Closed,Open
+BUS 200-05,LEC,23404,Business & Entrepreneurship,None,MW,1100-1215,24-165,Closed,Open
+BUS 200-06,LEC,23405,Business & Entrepreneurship,None,MW,0930-1045,59-2017,Closed,Open
+BUS 200-07,LEC,23406,Business & Entrepreneurship,None,MW,1100-1215,59-1007,Closed,Open
+BUS 200-09,LEC,23408,Business & Entrepreneurship,None,MW,1400-1515,59-1015,Closed,Open
+BUS 200-10,LEC,23409,Business & Entrepreneurship,None,MW,1530-1645,24-120,Closed,Open
+BUS 200-12,LEC,23896,Business & Entrepreneurship,None,MW,1230-1345,59-1013,Closed,Open
+PE 101-01,LAB,20526,Health/Fitness/Basketball,None,UT,0800-0850,11-130,Open,Closed
+PE 101-02,LAB,20527,Health/Fitness/Basketball,None,UT,0900-0950,11-130,Closed,Closed
+PE 101-03,LAB,20528,Health/Fitness/Basketball,None,UT,1000-1050,11-130,Closed,Closed
+PE 101-04,LAB,20529,Health/Fitness/Basketball,None,UT,1100-1150,11-130,Open,Closed
+PE 101-05,LAB,20530,Health/Fitness/Basketball,None,UT,1300-1350,11-130,Open,Closed
+PE 101-06,LAB,20532,Health/Fitness/Badminton,None,UT,1000-1050,11-100,Closed,Closed
+PE 101-07,LAB,20542,Health/Fitness/Badminton,None,UT,1100-1150,11-100,Closed,Closed
+PE 101-08,LAB,20969,Health/Fitness/Badminton,None,UT,1300-1350,11-100,Closed,Closed
+PE 101-09,LAB,20531,Health/Fitness/Badminton,None,UT,1400-1450,11-100,Closed,Closed
+PE 101-10,LAB,20832,Health/Fitness/Badminton,None,UT,1520-1610,11-100,Closed,Closed
+PE 101-11,LAB,20523,Health/Fitness/Aerobic,None,UT,0800-0850,11-131,Open,Closed
+PE 101-12,LAB,20831,Health/Fitness/Aerobic,None,UT,0900-0950,11-131,Open,Closed
+PE 101-13,LAB,20970,Health/Fitness/Aerobic,None,UT,1000-1050,11-131,Open,Closed
+PE 101-14,LAB,24320,Health/Fitness/Aerobic,None,UT,1100-1150,11-131,Open,Closed
+PE 101-15,LAB,24321,Health/Fitness/Aerobic,None,UT,1300-1350,11-131,Open,Closed
+PE 101-16,LAB,20538,Health/Fitness/Basketball,None,MW,0800-0850,11-130,Open,Closed
+PE 101-17,LAB,20539,Health/Fitness/Basketball,None,MW,0900-0950,11-130,Open,Closed
+PE 101-18,LAB,20540,Health/Fitness/Basketball,None,MW,1000-1050,11-130,Closed,Closed
+PE 101-19,LAB,20541,Health/Fitness/Basketball,None,MW,1100-1150,11-130,Closed,Closed
+PE 101-20,LAB,20534,Health/Fitness/Basketball,None,MW,1300-1350,11-130,Open,Closed
+PE 101-21,LAB,22366,Health/Fitness/Badminton,None,MW,0900-0950,11-131,Open,Closed
+PE 101-22,LAB,22367,Health/Fitness/Badminton,None,MW,1000-1050,11-131,Open,Closed
+PE 101-23,LAB,22368,Health/Fitness/Badminton,None,MW,1100-1150,11-131,Closed,Closed
+PE 101-24,LAB,20830,Health/Fitness/Badminton,None,MW,1300-1350,11-131,Closed,Closed
+PE 101-25,LAB,22363,Health/Fitness/Badminton,None,MW,1400-1450,11-131,Closed,Closed
+PE 101-26,LAB,20535,Health/Fitness/Aerobic,None,MW,1000-1050,11-100,Open,Closed
+PE 101-27,LAB,20536,Health/Fitness/Aerobic,None,MW,1100-1150,11-100,Closed,Closed
+PE 101-28,LAB,20537,Health/Fitness/Aerobic,None,MW,1300-1350,11-100,Open,Closed
+PE 101-29,LAB,22365,Health/Fitness/Aerobic,None,MW,1400-1450,11-100,Open,Closed
+PE 101-30,LAB,22362,Health/Fitness/Aerobic,None,MW,1520-1610,11-100,Open,Closed
+PE 101-F01,LAB,24322,Health/Fitness/Table Tennis,None,UT,0800-0850,CC-None,Open,Closed
+PE 101-F02,LAB,24323,Health/Fitness/Table Tennis,None,UT,0900-0950,11-130,Closed,Closed
+PE 101-F03,LAB,24324,Health/Fitness/Basketball,None,UT,1000-1050,CC-None,Closed,Closed
+PE 101-F04,LAB,24325,Health/Fitness/Basketball,None,UT,1100-1150,CC-None,Closed,Closed
+PE 101-F05,LAB,24326,Health/Fitness/Volleyball,None,MW,1000-1050,CC-None,Open,Closed
+PE 101-F06,LAB,24327,Health/Fitness/Volleyball,None,MW,1100-1150,CC-None,Open,Closed
+PE 101-F07,LAB,24328,Health/Fitness/Basketball,None,MW,1300-1350,CC-None,Open,Closed
+PE 101-F08,LAB,24329,Health/Fitness/Basketball,None,MW,1400-1450,CC-None,Open,Closed
+PHYS 101-01,REC,22031,General Physics I,J AL-SADAH,M,1200-1250,59-1001,Closed,Open
+PHYS 101-01,LEC,22031,General Physics I,J AL-SADAH,UTR,0900-0950,59-1001,Closed,Open
+PHYS 101-02,REC,22032,General Physics I,J AL-SADAH,M,1200-1250,59-1001,Open,Closed
+PHYS 101-02,LEC,22032,General Physics I,J AL-SADAH,UTR,0900-0950,59-1001,Open,Closed
+PHYS 101-03,REC,22033,General Physics I,J AL-SADAH,M,1200-1250,59-1001,Open,Closed
+PHYS 101-03,LEC,22033,General Physics I,J AL-SADAH,UTR,0900-0950,59-1001,Open,Closed
+PHYS 101-04,REC,21141,General Physics I,KHALIL HARRABI,M,0900-0950,6-105,Closed,Closed
+PHYS 101-04,LEC,21141,General Physics I,AYMAN EL-SAID,UTR,1000-1050,63-331,Closed,Closed
+PHYS 101-05,REC,21142,General Physics I,KHALIL HARRABI,M,1000-1050,6-105,Closed,Open
+PHYS 101-05,LEC,21142,General Physics I,AYMAN EL-SAID,UTR,1000-1050,63-331,Closed,Open
+PHYS 101-06,REC,21143,General Physics I,KHALIL HARRABI,M,1200-1250,6-105,Closed,Open
+PHYS 101-06,LEC,21143,General Physics I,AYMAN EL-SAID,UTR,1000-1050,63-331,Closed,Open
+PHYS 101-07,REC,21145,General Physics I,SABRI ELATRESH,M,0900-0950,59-1005,Closed,Open
+PHYS 101-07,LEC,21145,General Physics I,S MARZOUG,UTR,1100-1150,6-125,Closed,Open
+PHYS 101-08,REC,21146,General Physics I,SABRI ELATRESH,M,1000-1050,59-1015,Closed,Open
+PHYS 101-08,LEC,21146,General Physics I,S MARZOUG,UTR,1100-1150,6-125,Closed,Open
+PHYS 101-09,REC,21147,General Physics I,SABRI ELATRESH,M,1200-1250,6-169,Closed,Open
+PHYS 101-09,LEC,21147,General Physics I,S MARZOUG,UTR,1100-1150,6-125,Closed,Open
+PHYS 101-12,REC,21144,General Physics I,ASHRAF FARAHAT,M,1200-1250,6-103,Open,Closed
+PHYS 101-12,LEC,21144,General Physics I,ASHRAF FARAHAT,UTR,1200-1250,59-1001,Open,Closed
+PHYS 101-13,REC,24330,General Physics I,KHALIL ZIQ,M,1200-1250,6-163,Open,Closed
+PHYS 101-13,LEC,24330,General Physics I,KHALIL ZIQ,UTR,1300-1350,6-125,Open,Closed
+PHYS 101-200,LAB,23899,General Physics I,None,None,None,None,Closed,Closed
+PHYS 101-51,LAB,20069,General Physics I,None,U,0800-1040,None,Open,Closed
+PHYS 101-52,LAB,20070,General Physics I,None,U,0800-1040,None,Open,Closed
+PHYS 101-53,LAB,20071,General Physics I,None,U,0800-1040,None,Open,Closed
+PHYS 101-54,LAB,20072,General Physics I,None,U,1400-1640,None,Closed,Closed
+PHYS 101-55,LAB,20073,General Physics I,None,U,1400-1640,None,Open,Closed
+PHYS 101-56,LAB,20074,General Physics I,None,U,1400-1640,None,Closed,Closed
+PHYS 101-57,LAB,22045,General Physics I,None,M,0800-1040,None,Closed,Closed
+PHYS 101-58,LAB,20075,General Physics I,None,M,0800-1040,None,Closed,Closed
+PHYS 101-59,LAB,20076,General Physics I,None,M,0800-1040,None,Closed,Closed
+PHYS 101-60,LAB,20077,General Physics I,None,M,1400-1640,None,Closed,Closed
+PHYS 101-61,LAB,22046,General Physics I,None,M,1400-1640,None,Closed,Closed
+PHYS 101-62,LAB,20916,General Physics I,None,M,1400-1640,None,Closed,Closed
+PHYS 101-63,LAB,20079,General Physics I,None,T,0800-1040,None,Open,Closed
+PHYS 101-64,LAB,20080,General Physics I,None,T,0800-1040,None,Open,Closed
+PHYS 101-65,LAB,22039,General Physics I,None,T,0800-1040,None,Open,Closed
+PHYS 101-66,LAB,24338,General Physics I,None,T,1400-1640,None,Closed,Closed
+PHYS 101-67,LAB,24339,General Physics I,None,T,1400-1640,None,Closed,Closed
+PHYS 101-68,LAB,21168,General Physics I,None,T,1400-1640,None,Closed,Closed
+PHYS 101-69,LAB,22040,General Physics I,None,W,0800-1040,None,Closed,Closed
+PHYS 101-70,LAB,22041,General Physics I,None,W,0800-1040,None,Closed,Closed
+PHYS 101-71,LAB,20083,General Physics I,None,W,0800-1040,None,Closed,Closed
+PHYS 101-72,LAB,24340,General Physics I,None,W,1400-1640,None,Closed,Closed
+PHYS 101-73,LAB,20085,General Physics I,None,W,1400-1640,None,Closed,Closed
+PHYS 101-74,LAB,22042,General Physics I,None,W,1400-1640,None,Closed,Closed
+PHYS 101-F31,REC,20067,General Physics I,WATHEQ ALBASHEER,M,1000-1050,14-108,Closed,Closed
+PHYS 101-F31,LEC,20067,General Physics I,WATHEQ ALBASHEER,UTR,1200-1250,14-108,Closed,Closed
+PHYS 101-F32,REC,20068,General Physics I,WATHEQ ALBASHEER,M,1000-1050,14-108,Open,Closed
+PHYS 101-F32,LEC,20068,General Physics I,WATHEQ ALBASHEER,UTR,1200-1250,14-108,Open,Closed
+PHYS 101-F33,REC,21148,General Physics I,WATHEQ ALBASHEER,M,1000-1050,14-108,Open,Closed
+PHYS 101-F33,LEC,21148,General Physics I,WATHEQ ALBASHEER,UTR,1200-1250,14-108,Open,Closed
+PHYS 101-F59,LAB,20918,General Physics I,None,M,1300-1540,None,Closed,Closed
+PHYS 101-F68,LAB,21127,General Physics I,None,W,1000-1240,None,Closed,Closed
+PHYS 101-F71,LAB,21128,General Physics I,None,W,1300-1540,None,Closed,Closed
+PHYS 101-F80,LAB,21129,General Physics I,None,U,1300-1540,None,Open,Closed
+PHYS 101-F81,LAB,24463,General Physics I,None,U,1300-1540,None,Open,Closed
+PHYS 101-F82,LAB,24464,General Physics I,None,T,1300-1540,None,Open,Closed
+PHYS 101-F83,LAB,24465,General Physics I,None,M,0700-0940,None,Open,Closed
+PHYS 101-F84,LAB,24498,General Physics I,None,W,0700-0940,None,Open,Closed
+PHYS 102-01,REC,20086,General Physics II,RADITYA BOMANTARA,W,0800-0850,59-1005,Open,Closed
+PHYS 102-01,LEC,20086,General Physics II,RADITYA BOMANTARA,UTR,0800-0850,59-1001,Open,Closed
+PHYS 102-02,REC,20087,General Physics II,RADITYA BOMANTARA,W,0900-0950,59-1009,Closed,Closed
+PHYS 102-02,LEC,20087,General Physics II,RADITYA BOMANTARA,UTR,0800-0850,59-1001,Closed,Closed
+PHYS 102-03,REC,20088,General Physics II,RADITYA BOMANTARA,W,1200-1250,59-2004,Open,Closed
+PHYS 102-03,LEC,20088,General Physics II,RADITYA BOMANTARA,UTR,0800-0850,59-1001,Open,Closed
+PHYS 102-04,REC,20093,General Physics II,HOCINE BAHLOULI,W,0800-0850,6-165,Closed,Open
+PHYS 102-04,LEC,20093,General Physics II,HOCINE BAHLOULI,UTR,0800-0850,6-125,Closed,Open
+PHYS 102-05,REC,21149,General Physics II,HOCINE BAHLOULI,W,0900-0950,6-103,Closed,Open
+PHYS 102-05,LEC,21149,General Physics II,HOCINE BAHLOULI,UTR,0800-0850,6-125,Closed,Open
+PHYS 102-06,REC,21150,General Physics II,HOCINE BAHLOULI,W,1200-1250,6-103,Closed,Open
+PHYS 102-06,LEC,21150,General Physics II,HOCINE BAHLOULI,UTR,0800-0850,6-125,Closed,Open
+PHYS 102-07,REC,20089,General Physics II,KHAN ALAM,W,0800-0850,6-103,Closed,Closed
+PHYS 102-07,LEC,20089,General Physics II,SALEEM RAO,UTR,0900-0950,6-125,Closed,Closed
+PHYS 102-08,REC,20090,General Physics II,KHAN ALAM,W,0900-0950,6-165,Closed,Open
+PHYS 102-08,LEC,20090,General Physics II,SALEEM RAO,UTR,0900-0950,6-125,Closed,Open
+PHYS 102-09,REC,21151,General Physics II,KHAN ALAM,W,1200-1250,6-165,Closed,Open
+PHYS 102-09,LEC,21151,General Physics II,SALEEM RAO,UTR,0900-0950,6-125,Closed,Open
+PHYS 102-10,REC,22376,General Physics II,S KUNWAR,W,0900-0950,6-169,Closed,Open
+PHYS 102-10,LEC,22376,General Physics II,ABDULAZIZ AL-JALAL,UTR,1000-1050,6-125,Closed,Open
+PHYS 102-100,LAB,22058,General Physics II,None,W,1400-1640,None,Closed,Closed
+PHYS 102-101,LAB,24525,General Physics II,None,U,1100-1340,None,Open,Closed
+PHYS 102-11,REC,22377,General Physics II,S KUNWAR,W,1000-1050,6-105,Closed,Open
+PHYS 102-11,LEC,22377,General Physics II,ABDULAZIZ AL-JALAL,UTR,1000-1050,6-125,Closed,Open
+PHYS 102-12,REC,22378,General Physics II,S KUNWAR,W,1200-1250,6-105,Closed,Open
+PHYS 102-12,LEC,22378,General Physics II,ABDULAZIZ AL-JALAL,UTR,1000-1050,6-125,Closed,Open
+PHYS 102-13,REC,22379,General Physics II,MUHAMMED GONDAL,W,0900-0950,6-125,Closed,Closed
+PHYS 102-13,LEC,22379,General Physics II,MUHAMMED GONDAL,UTR,1000-1050,24-121,Closed,Closed
+PHYS 102-14,REC,22380,General Physics II,MUHAMMED GONDAL,W,0900-0950,6-125,Closed,Closed
+PHYS 102-14,LEC,22380,General Physics II,MUHAMMED GONDAL,UTR,1000-1050,24-121,Closed,Closed
+PHYS 102-15,REC,22381,General Physics II,MUHAMMED GONDAL,W,0900-0950,6-125,Closed,Open
+PHYS 102-15,LEC,22381,General Physics II,MUHAMMED GONDAL,UTR,1000-1050,24-121,Closed,Open
+PHYS 102-16,REC,20094,General Physics II,N DWAIKAT,W,0900-0950,59-2009,Open,Closed
+PHYS 102-16,LEC,20094,General Physics II,SAIF ADDIN BURHAN,UTR,1100-1150,59-1001,Open,Closed
+PHYS 102-17,REC,21155,General Physics II,N DWAIKAT,W,1000-1050,6-125,Open,Closed
+PHYS 102-17,LEC,21155,General Physics II,SAIF ADDIN BURHAN,UTR,1100-1150,59-1001,Open,Closed
+PHYS 102-18,REC,21156,General Physics II,N DWAIKAT,W,1200-1250,6-125,Open,Closed
+PHYS 102-18,LEC,21156,General Physics II,SAIF ADDIN BURHAN,UTR,1100-1150,59-1001,Open,Closed
+PHYS 102-19,REC,21157,General Physics II,ABDELLAH AL-SONAIDI,W,0900-0950,6-101,Open,Closed
+PHYS 102-19,LEC,21157,General Physics II,ABDELLAH AL-SONAIDI,UTR,1100-1150,63-331,Open,Closed
+PHYS 102-20,REC,21158,General Physics II,ABDELLAH AL-SONAIDI,W,1000-1050,6-101,Closed,Closed
+PHYS 102-20,LEC,21158,General Physics II,ABDELLAH AL-SONAIDI,UTR,1100-1150,63-331,Closed,Closed
+PHYS 102-200,LAB,23907,General Physics II,None,None,None,None,Closed,Closed
+PHYS 102-21,REC,21159,General Physics II,ABDELLAH AL-SONAIDI,W,1200-1250,63-331,Closed,Open
+PHYS 102-21,LEC,21159,General Physics II,ABDELLAH AL-SONAIDI,UTR,1100-1150,63-331,Closed,Open
+PHYS 102-22,REC,20091,General Physics II,MICHAEL VOGL,W,1200-1250,6-101,Closed,Open
+PHYS 102-22,LEC,20091,General Physics II,ABDALLAH AL-ZAHRANI,UTR,1200-1250,6-125,Closed,Open
+PHYS 102-23,REC,20092,General Physics II,MICHAEL VOGL,W,1300-1350,6-103,Open,Closed
+PHYS 102-23,LEC,20092,General Physics II,ABDALLAH AL-ZAHRANI,UTR,1200-1250,6-125,Open,Closed
+PHYS 102-25,REC,21720,General Physics II,ADEL ABBOUT,W,1200-1250,6-169,Closed,Closed
+PHYS 102-25,LEC,21720,General Physics II,ADEL ABBOUT,UTR,1200-1250,63-331,Closed,Closed
+PHYS 102-26,REC,21721,General Physics II,ADEL ABBOUT,W,1300-1350,6-169,Open,Closed
+PHYS 102-26,LEC,21721,General Physics II,ADEL ABBOUT,UTR,1200-1250,63-331,Open,Closed
+PHYS 102-56,LAB,22047,General Physics II,None,U,1400-1640,None,Closed,Closed
+PHYS 102-57,LAB,20111,General Physics II,None,U,1400-1640,None,Closed,Closed
+PHYS 102-58,LAB,22059,General Physics II,None,U,1400-1640,None,Open,Closed
+PHYS 102-59,LAB,20100,General Physics II,None,U,1400-1640,None,Open,Closed
+PHYS 102-60,LAB,20101,General Physics II,None,U,1400-1640,None,Open,Closed
+PHYS 102-61,LAB,20102,General Physics II,None,M,0800-1040,None,Closed,Closed
+PHYS 102-62,LAB,20583,General Physics II,None,M,0800-1040,None,Closed,Closed
+PHYS 102-63,LAB,22412,General Physics II,None,M,0800-1040,None,Closed,Closed
+PHYS 102-64,LAB,22413,General Physics II,None,M,0800-1040,None,Closed,Closed
+PHYS 102-65,LAB,22048,General Physics II,None,M,0800-1040,None,Closed,Closed
+PHYS 102-66,LAB,20103,General Physics II,None,M,1100-1340,None,Closed,Closed
+PHYS 102-67,LAB,20104,General Physics II,None,M,1100-1340,None,Closed,Closed
+PHYS 102-68,LAB,20112,General Physics II,None,M,1100-1340,None,Closed,Closed
+PHYS 102-69,LAB,22414,General Physics II,None,M,1100-1340,None,Closed,Closed
+PHYS 102-70,LAB,22415,General Physics II,None,M,1100-1340,None,Closed,Closed
+PHYS 102-71,LAB,20581,General Physics II,None,M,1400-1640,None,Closed,Closed
+PHYS 102-72,LAB,20105,General Physics II,None,M,1400-1640,None,Closed,Closed
+PHYS 102-73,LAB,20106,General Physics II,None,M,1400-1640,None,Closed,Closed
+PHYS 102-74,LAB,22060,General Physics II,None,M,1400-1640,None,Closed,Closed
+PHYS 102-75,LAB,23589,General Physics II,None,M,1400-1640,None,Closed,Closed
+PHYS 102-76,LAB,22049,General Physics II,None,T,0800-1040,None,Open,Closed
+PHYS 102-77,LAB,22050,General Physics II,None,T,0800-1040,None,Open,Closed
+PHYS 102-78,LAB,20584,General Physics II,None,T,0800-1040,None,Open,Closed
+PHYS 102-79,LAB,22055,General Physics II,None,T,0800-1040,None,Open,Closed
+PHYS 102-80,LAB,22052,General Physics II,None,T,0800-1040,None,Open,Closed
+PHYS 102-81,LAB,22053,General Physics II,None,T,1400-1640,None,Closed,Closed
+PHYS 102-82,LAB,20585,General Physics II,None,T,1400-1640,None,Closed,Closed
+PHYS 102-83,LAB,22416,General Physics II,None,T,1400-1640,None,Open,Closed
+PHYS 102-84,LAB,22051,General Physics II,None,T,1400-1640,None,Open,Closed
+PHYS 102-85,LAB,20107,General Physics II,None,T,1400-1640,None,Open,Closed
+PHYS 102-86,LAB,20108,General Physics II,None,W,0800-1040,None,Closed,Closed
+PHYS 102-87,LAB,22061,General Physics II,None,W,0800-1040,None,Open,Closed
+PHYS 102-88,LAB,22417,General Physics II,None,W,0800-1040,None,Open,Closed
+PHYS 102-89,LAB,22418,General Physics II,None,W,0800-1040,None,Open,Closed
+PHYS 102-90,LAB,22054,General Physics II,None,W,0800-1040,None,Open,Closed
+PHYS 102-91,LAB,20582,General Physics II,None,W,1100-1340,None,Closed,Closed
+PHYS 102-92,LAB,20110,General Physics II,None,W,1100-1340,None,Closed,Closed
+PHYS 102-93,LAB,22062,General Physics II,None,W,1100-1340,None,Closed,Closed
+PHYS 102-94,LAB,22419,General Physics II,None,W,1100-1340,None,Closed,Closed
+PHYS 102-95,LAB,22420,General Physics II,None,W,1100-1340,None,Closed,Closed
+PHYS 102-96,LAB,20109,General Physics II,None,W,1400-1640,None,Closed,Closed
+PHYS 102-97,LAB,22056,General Physics II,None,W,1400-1640,None,Closed,Closed
+PHYS 102-98,LAB,22057,General Physics II,None,W,1400-1640,None,Closed,Closed
+PHYS 102-99,LAB,22063,General Physics II,None,W,1400-1640,None,Closed,Closed
+PHYS 102-F31,REC,21152,General Physics II,TARIQ AL-ABDULLAH,W,0800-0850,14-108,Open,Closed
+PHYS 102-F31,LEC,21152,General Physics II,TARIQ AL-ABDULLAH,UTR,0800-0850,14-111,Open,Closed
+PHYS 102-F32,REC,21153,General Physics II,TARIQ AL-ABDULLAH,W,0800-0850,14-108,Open,Closed
+PHYS 102-F32,LEC,21153,General Physics II,TARIQ AL-ABDULLAH,UTR,0800-0850,14-111,Open,Closed
+PHYS 102-F34,REC,23808,General Physics II,A SALEM,W,1000-1050,14-108,Closed,Open
+PHYS 102-F34,LEC,23808,General Physics II,A SALEM,UTR,1300-1350,14-108,Closed,Open
+PHYS 102-F35,REC,23809,General Physics II,A SALEM,W,1000-1050,14-108,Closed,Open
+PHYS 102-F35,LEC,23809,General Physics II,A SALEM,UTR,1300-1350,14-108,Closed,Open
+PHYS 102-F36,REC,23810,General Physics II,A SALEM,W,1000-1050,14-108,Closed,Closed
+PHYS 102-F36,LEC,23810,General Physics II,A SALEM,UTR,1300-1350,14-108,Closed,Closed
+PHYS 102-F37,REC,23934,General Physics II,MOHAMMAD AL-KUHAILI,W,1300-1350,14-108,Closed,Closed
+PHYS 102-F37,LEC,23934,General Physics II,MOHAMMAD AL-KUHAILI,UTR,1100-1150,14-108,Closed,Closed
+PHYS 102-F38,REC,23935,General Physics II,MOHAMMAD AL-KUHAILI,W,1300-1350,14-108,Closed,Open
+PHYS 102-F38,LEC,23935,General Physics II,MOHAMMAD AL-KUHAILI,UTR,1100-1150,14-108,Closed,Open
+PHYS 102-F39,REC,23936,General Physics II,MOHAMMAD AL-KUHAILI,W,1300-1350,14-108,Closed,Closed
+PHYS 102-F39,LEC,23936,General Physics II,MOHAMMAD AL-KUHAILI,UTR,1100-1150,14-108,Closed,Closed
+PHYS 102-F61,LAB,23590,General Physics II,None,M,1000-1240,None,Closed,Closed
+PHYS 102-F62,LAB,23591,General Physics II,None,M,1000-1240,None,Closed,Closed
+PHYS 102-F63,LAB,23592,General Physics II,None,M,1000-1240,None,Closed,Closed
+PHYS 102-F66,LAB,23937,General Physics II,None,M,1300-1540,None,Closed,Closed
+PHYS 102-F67,LAB,23938,General Physics II,None,M,1300-1540,None,Closed,Closed
+PHYS 102-F68,LAB,23939,General Physics II,None,M,1300-1540,None,Closed,Closed
+PHYS 102-F77,LAB,23940,General Physics II,None,T,1300-1540,None,Open,Closed
+PHYS 102-F78,LAB,23941,General Physics II,None,T,1300-1540,None,Open,Closed
+PHYS 102-F82,LAB,23942,General Physics II,None,W,1000-1240,None,Closed,Closed
+PHYS 102-F83,LAB,23943,General Physics II,None,W,1000-1240,None,Closed,Closed
+PHYS 102-F84,LAB,23944,General Physics II,None,W,1000-1240,None,Closed,Closed
+PHYS 102-F87,LAB,23945,General Physics II,None,W,1300-1540,None,Closed,Closed
+PHYS 102-F88,LAB,23946,General Physics II,None,W,1300-1540,None,Closed,Closed
+PHYS 102-F89,LAB,23947,General Physics II,None,W,1300-1540,None,Closed,Closed
+PHYS 102-F90,LAB,24479,General Physics II,None,T,1000-1240,None,Open,Closed
+PHYS 102-F91,LAB,24480,General Physics II,None,T,1000-1240,None,Open,Closed
+ISE 291-01,LEC,22687,Introduction to Data Science,MEHRAN ULLAH,UTR,0900-0950,23-011,Closed,Closed
+ISE 291-02,LEC,22688,Introduction to Data Science,JUNAID SIDDIQUI,UTR,0900-0950,24-128,Open,Closed
+ISE 291-03,LEC,22689,Introduction to Data Science,ZEAD SALEH,UTR,1000-1050,22-121,Closed,Open
+ISE 291-04,LEC,22690,Introduction to Data Science,AHMAD ABUSLEEM,UTR,1000-1050,22-125,Closed,Open
+ISE 291-05,LEC,22691,Introduction to Data Science,NOMAN ULLAH --,UTR,1100-1150,24-178,Closed,Open
+ISE 291-06,LEC,22692,Introduction to Data Science,MUHAMMAD MUNA,UTR,1200-1250,22-119,Closed,Open
+ISE 291-07,LEC,22693,Introduction to Data Science,ANAS ABU DAQA,UTR,1300-1350,59-2011,Closed,Open
+ISE 291-08,LEC,22694,Introduction to Data Science,RASHAD OTHMAN,UTR,1400-1450,24-153,Closed,Open
+ISE 291-09,LEC,22695,Introduction to Data Science,ASIF IQBAL MALIK,UT,1100-1215,76-1124,Closed,Open
+ISE 291-10,LEC,22696,Introduction to Data Science,ASIF IQBAL MALIK,UT,1230-1345,23-014,Closed,Open
+ISE 291-11,LEC,22697,Introduction to Data Science,BADR ALHARBI,UT,1720-1835,24-146,Open,Closed
+ISE 291-12,LEC,22698,Introduction to Data Science,MOJEEB AL-KHIATY,MW,0830-0945,59-1015,Closed,Open
+ISE 291-13,LEC,22699,Introduction to Data Science,TAHIR MAHMOOD,MW,1000-1115,59-1011,Closed,Open
+ISE 291-17,LEC,22703,Introduction to Data Science,ALI ALSHAIKH,MW,1720-1835,24-151,Open,Closed
+ISE 291-18,LEC,24520,Introduction to Data Science,MUHAMMAD AL FIRDAUSI,UTR,1300-1350,59-2017,Closed,Closed
+ISE 291-F31,LEC,22700,Introduction to Data Science,WAQAR KHAN,MW,1100-1215,7-102,Open,Closed
+ISE 291-F32,LEC,22701,Introduction to Data Science,WAQAR KHAN,MW,1230-1345,7-102,Open,Closed
